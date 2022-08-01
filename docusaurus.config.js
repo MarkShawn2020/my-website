@@ -141,10 +141,14 @@ const config = async function configCreatorAsync() {
 
           {
             href: getGithubRepoUrl(),
-            label: 'Source',
+            label: 'Code of Framework',
             position: 'right',
           },
-
+          {
+            href: getGithubRepoWebsiteUrl(),
+            label: 'Code of Website',
+            position: 'right',
+          },
           {
             href: getGithubRepoLibraryUrl(),
             label: 'Library',
