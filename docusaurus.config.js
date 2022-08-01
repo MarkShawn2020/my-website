@@ -162,7 +162,7 @@ const config = async function configCreatorAsync() {
            * footer 1
            */
           {
-            title: 'Docs',
+            title: 'Core',
             items: [
               {
                 label: 'Docs',
