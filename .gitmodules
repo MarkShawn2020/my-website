@@ -1,4 +1,4 @@
 [submodule "library"]
 	path = library
-	url = git@github.com:MarkShawn2020/keeeps-learning.git
+	url = https://github.com/markshawn2020/keeeps-learning
 	branch = main
