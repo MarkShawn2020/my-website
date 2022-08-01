@@ -21,7 +21,6 @@ const {
   getGithubRepoWebsiteUrl,
   getGithubRepoLibraryUrl,
 } = require('./config/utils');
-const { url } = require('inspector');
 
 const config = async function configCreatorAsync() {
   /** @type {import('@docusaurus/types').Config} */
