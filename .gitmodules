@@ -1,0 +1,4 @@
+[submodule "library"]
+	path = library
+	url = https://github.com/MarkShawn2020/keeeps-learning
+	branch = main
