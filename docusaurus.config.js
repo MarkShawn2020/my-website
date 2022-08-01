@@ -11,7 +11,7 @@ const pluginRehypeKatex = require('rehype-katex');
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const {me} = require('./config/me');
+const { me } = require('./config/me');
 const charMap = require('./config/data/pinyin.json');
 const {
   asyncLoadGallery,
@@ -21,6 +21,7 @@ const {
   getGithubRepoWebsiteUrl,
   getGithubRepoLibraryUrl,
 } = require('./config/utils');
+const { url } = require('inspector');
 
 const config = async function configCreatorAsync() {
   /** @type {import('@docusaurus/types').Config} */
@@ -125,7 +126,7 @@ const config = async function configCreatorAsync() {
           //     position: 'left',
           //     label: 'My Books'
           // },
-          {to: '/blog/tags', label: 'My Blog', position: 'left'},
+          { to: '/blog/tags', label: 'My Blog', position: 'left' },
 
           {
             type: 'doc', // 加了这个就直接跳转到doc主页了，to就无效了
@@ -135,7 +136,7 @@ const config = async function configCreatorAsync() {
             label: 'My Dev Notes',
           },
 
-          {to: '/gallery', label: 'Gallery', position: 'left'},
+          { to: '/gallery', label: 'Gallery', position: 'left' },
 
           {
             href: getGithubRepoUrl(),
@@ -191,6 +192,20 @@ const config = async function configCreatorAsync() {
                 href: 'https://docusaurus.io/docs/category/guides',
               },
             ],
+          },
+
+          {
+            title: "Tools",
+            items: [
+              {
+                label: "Vercel Deploy",
+                href: "https://vercel.com/markshawn2020/docusaurus"
+              },
+              {
+                label: "Google Analytics",
+                href: "https://analytics.google.com/analytics/web/#/p324822374/reports/reportinghub?params=_u.dateOption%3DthisWeekSatToToday"
+              }
+            ]
           },
 
           /**
