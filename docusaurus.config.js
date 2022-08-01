@@ -11,7 +11,7 @@ const pluginRehypeKatex = require('rehype-katex');
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const me = require('./config/me');
+const {me} = require('./config/me');
 const charMap = require('./config/data/pinyin.json');
 const {
     asyncLoadGallery,

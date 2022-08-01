@@ -9,16 +9,16 @@ const path = require('path');
 const {promises: fs} = require('fs');
 
 const historyVersions = require('../versions.json');
-const me = require('./me');
+const {me, meCustom} = require('./me');
 
 const getGithubRepoUrl = () =>
   `https://github.com/${me.organizationName}/${me.projectName}`;
 
 const getGithubRepoWebsiteUrl = () =>
-  `https://github.com/${me.organizationName}/${me.projectWebsiteMame}`;
+  `https://github.com/${me.organizationName}/${meCustom.projectWebsiteMame}`;
 
 const getGithubRepoLibraryUrl = () =>
-  `https://github.com/${me.organizationName}/${me.projectLibraryName}`;
+  `https://github.com/${me.organizationName}/${meCustom.projectLibraryName}`;
 
 const getGithubEditUrl = () => `${getGithubRepoUrl()}/edit/master/`;
 
