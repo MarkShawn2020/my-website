@@ -12,19 +12,14 @@ const visit = require("unist-util-visit");
 
 const handleGrandFatherOfFooterRef = (node) => {
     const PATTERN_FOOTNOTE_REF = '#fnref-'
-    if (node.children.length > 0) {
+    if (node.children.length) {
         const lastChild = node.children[node.children.length - 1]
-        // console.log({node, lastChild})
-
-        if (lastChild.children /* Text */ &&  lastChild.children.length > 0) {
+        if (lastChild.type === "element" && lastChild.children.length) {
             const lastGrandChild = lastChild.children[lastChild.children.length - 1]
-            if(!lastGrandChild){
-                console.log({node, lastChild, lastGrandChild})
-            }
             if (lastGrandChild.type === "element" && lastGrandChild.tagName === "a") {
                 const {href, className} = lastGrandChild.properties
+                console.log({node, lastChild, lastGrandChild, className, href})
                 if (className !== undefined && className[0] === 'footnote-backref') {
-                    console.log({node, lastChild})
                     // 1. modify title
                     lastGrandChild.children[0].value = href.slice(PATTERN_FOOTNOTE_REF.length)
                     // 2. change position
