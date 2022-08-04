@@ -1,6 +1,6 @@
 # Website
 
-- powered by [Docusaurus 2](https://docusaurus.io/), a modern static website generator, with my notes on it at: [docs/Software/Docusaurus/docusaurus-track.md](library/docs/Software/Docusaurus/docusaurus-track.md).
+- powered by [Docusaurus 2](https://docusaurus.io/), a modern static website generator, with my notes on it at: [docs/Software/Docusaurus/docusaurus-track.md](library/development/Software/Docusaurus/docusaurus-track.md).
 - statically hosted at: https://keeps-learning.vercel.app
 
 ## Private
