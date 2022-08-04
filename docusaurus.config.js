@@ -5,24 +5,21 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-const pluginRemarkMath = require('remark-math');
-const pluginRehypeKatex = require('rehype-katex');
-const pluginMdxMermaid = require('mdx-mermaid');
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 
-const {me} = require('./config/me');
 const charMap = require('./config/data/pinyin.json');
+
+const {me} = require('./config/me');
 const {
     asyncLoadGallery,
-    getGithubEditUrl,
-    getLatestVersion,
     getGithubRepoUrl,
     getGithubRepoWebsiteUrl,
     getGithubRepoLibraryUrl,
 } = require('./config/utils');
-const {pluginRehypeFormatFootnote} = require("./config/plugin-rehype-format-footnote");
+const {blog} = require("./config/blog");
+const {fetchDocs} = require("./config/docs");
 
 const config = async function configCreatorAsync() {
     /** @type {import('@docusaurus/types').Config} */
@@ -50,54 +47,11 @@ const config = async function configCreatorAsync() {
         presets: [
             [
                 '@docusaurus/preset-classic',
+                /** @type {import("@docusaurus/preset-classic").PluginOptions} */
                 {
-                    docs: /** @type {import("@docusaurus/plugin-content-docs").PluginOptions} */ {
-                        // default id is a must, although I want to use 'dev-notes'
-                        // id: 'default',
-                        path: 'library/docs', // By default, Docusaurus generates a sidebar from the docs folder structure, ref: https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#sidebarPath
-                        // if enabled, the `editLocalizedFiles` would be invalid
-                        // sidebarPath: undefined,
-                        editUrl: getGithubEditUrl(), // enable local edit, ref: https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#configuration
-                        editLocalizedFiles: true,
-                        editCurrentVersion: true, // configure version, ref: https://docusaurus.io/docs/versioning#configuring-versioning-behavior
-                        lastVersion: 'current', // must be in ['current', ...VALID_VERSIONS]
-                        versions: {
-                            current: {
-                                // todo: investigate why await can be used here
-                                label: `${await getLatestVersion()}+`, // path: versions[0] + "+"
-                                badge: true,
-                            },
-                        }, // onlyIncludeVersions: [
-                        //     "current"
-                        // ],
-                        // showLastUpdateTime: true,
+                    docs: await fetchDocs(),
 
-                        remarkPlugins: [pluginMdxMermaid, pluginRemarkMath],
-                        rehypePlugins: [
-                            pluginRehypeKatex,
-                            pluginRehypeFormatFootnote
-                        ],
-                    },
-
-                    blog: /** @type {import("@docusaurus/plugin-content-blog").PluginOptions} */ {
-                        path: 'library/blog/public',
-                        showReadingTime: true,
-                        editUrl: getGithubEditUrl(),
-                        blogDescription: 'A Docusaurus powered blog!',
-
-                        // enable all posts, otherwise default 5, ref: https://docusaurus.io/docs/blog#blog-sidebar
-                        blogSidebarTitle: 'All Posts',
-                        blogSidebarCount: 'ALL',
-                        postsPerPage: 5,
-                        exclude: [],
-
-                        blogListComponent: '@theme/BlogListPage',
-                        blogPostComponent: '@theme/BlogPostPage',
-                        blogTagsListComponent: '@theme/BlogTagsListPage',
-                        blogTagsPostsComponent: '@theme/BlogTagsPostsPage',
-
-                        truncateMarker: /^##/,
-                    },
+                    blog,
 
                     theme: {
                         customCss: './config/css/theme.css',

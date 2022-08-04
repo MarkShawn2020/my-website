@@ -6,7 +6,13 @@
  */
 
 h1 {
-  /* display: none; */
+  /* display: none; no need to use this, since there is one built-in doc config param */
+}
+
+/* navigate properly, ref: https://forum.freecodecamp.org/t/fixed-navbar-jump-scroll/238004/2 */
+:target{
+  padding-top:80px; /* = to height of navbar */
+  margin-top:-80px;
 }
 
 /**
