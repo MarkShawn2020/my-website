@@ -6,6 +6,7 @@
     // ref: https://stackoverflow.com/a/59501780/9422455
     "forceConsistentCasingInFileNames": false,
     "sourceMap": true,
-    "jsx": "react"
+    "jsx": "react",
+    "resolveJsonModule": true
   }
 }

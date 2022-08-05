@@ -1,0 +1,665 @@
+[
+  {
+    "sDate": "2022-06-20",
+    "eDate": "",
+    "category": "bug",
+    "title": "adobe photoshop export",
+    "priority": "-",
+    "status": "discarded",
+    "reason": "GONE",
+    "detail": "[^ps-bug]",
+    "dates": [
+      "2022-06-20T00:00:00.000Z",
+      null
+    ],
+    "tags": [
+      "bug"
+    ]
+  },
+  {
+    "sDate": "2022-06-20",
+    "eDate": "",
+    "category": "chore",
+    "title": "delete MP4 in git repo",
+    "priority": "-",
+    "status": "finished",
+    "reason": "FIXED",
+    "detail": "[^git-rm-mp4]",
+    "dates": [
+      "2022-06-20T00:00:00.000Z",
+      null
+    ],
+    "tags": [
+      "chore"
+    ]
+  },
+  {
+    "sDate": "2022-02-04",
+    "eDate": "",
+    "category": "article",
+    "title": "linux core intro",
+    "priority": "-",
+    "status": "finished",
+    "reason": "FINISHED",
+    "detail": "",
+    "dates": [
+      "2022-02-04T00:00:00.000Z",
+      null
+    ],
+    "tags": [
+      "article"
+    ]
+  },
+  {
+    "sDate": "2022-01-06",
+    "eDate": "",
+    "category": "feat",
+    "title": "vscode md image upload",
+    "priority": "-",
+    "status": "finished",
+    "reason": "FIXED",
+    "detail": "[^vscode-md-img-upload]",
+    "dates": [
+      "2022-01-06T00:00:00.000Z",
+      null
+    ],
+    "tags": [
+      "feat"
+    ]
+  },
+  {
+    "sDate": "2022-08-05",
+    "eDate": "",
+    "category": "project",
+    "title": "ganta graph",
+    "priority": "",
+    "status": "pending",
+    "reason": "",
+    "detail": "inspired by ruo/jack",
+    "dates": [
+      "2022-08-05T00:00:00.000Z",
+      null
+    ],
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "blog",
+    "title": "sort out the blog category",
+    "priority": "",
+    "status": "pending",
+    "reason": "",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "blog",
+    "title": "sort out the tsinghua docs",
+    "priority": "",
+    "status": "pending",
+    "reason": "",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "learn",
+    "title": "Lee-SLAM",
+    "priority": "",
+    "status": "started",
+    "reason": "",
+    "detail": "[^learn-slam]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "learn"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "learning",
+    "title": "computer graph",
+    "priority": "",
+    "status": "pending",
+    "reason": "",
+    "detail": "[^learn-computer-graph]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "learning"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "project",
+    "title": "markdown output with multi-platforms",
+    "priority": "",
+    "status": "pending",
+    "reason": "",
+    "detail": "[^md-multi-output]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "project",
+    "title": "agg-music",
+    "priority": "",
+    "status": "delayed",
+    "reason": "",
+    "detail": "[^agg-music]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "project",
+    "title": "markdown realtime engine",
+    "priority": "",
+    "status": "delayed",
+    "reason": "",
+    "detail": "[^md-realtime-engine]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "project",
+    "title": "aggregated search",
+    "priority": "",
+    "status": "delayed",
+    "reason": "",
+    "detail": "[^agg-search]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "project",
+    "title": "knowledge graph based on blog system",
+    "priority": "0.7",
+    "status": "delayed",
+    "reason": "",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "TamperMonkey",
+    "title": "douban rent",
+    "priority": "",
+    "status": "started",
+    "reason": "",
+    "detail": "[^tm-douban-rent]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "TamperMonkey"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "mac",
+    "title": "customize dictionary app",
+    "priority": "",
+    "status": "delayed",
+    "reason": "",
+    "detail": "chinese <--> english",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "mac"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "project",
+    "title": "online reader",
+    "priority": "",
+    "status": "delayed",
+    "reason": "",
+    "detail": "[^online-reader]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "project",
+    "title": "video synchronized with captain",
+    "priority": "",
+    "status": "delayed",
+    "reason": "",
+    "detail": "[^video-captain-sync]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "project",
+    "title": "e-commercial analysis system",
+    "priority": "0.6",
+    "status": "delayed",
+    "reason": "",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "project",
+    "title": "super financial bill",
+    "priority": "",
+    "status": "delayed",
+    "reason": "",
+    "detail": "difficulty: need root",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "vscode",
+    "title": "markdown synchronized scroll algorithm",
+    "priority": "",
+    "status": "delayed",
+    "reason": "",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "vscode"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "vscode",
+    "title": "auto-completion for headings from md",
+    "priority": "",
+    "status": "delayed",
+    "reason": "",
+    "detail": "[^vscode-auto-heading]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "vscode"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "vscode",
+    "title": "comment line with cursor down",
+    "priority": "",
+    "status": "delayed",
+    "reason": "",
+    "detail": "stay if line is empty",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "vscode"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "article",
+    "title": "blog tools comparison",
+    "priority": "",
+    "status": "pending",
+    "reason": "",
+    "detail": "about remark",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "article"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "pr",
+    "title": "ttf2bmf backend",
+    "priority": "",
+    "status": "discarded",
+    "reason": "PASS",
+    "detail": "[^ttf2bmf-node]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "pr"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "article",
+    "title": "ASCII ART",
+    "priority": "",
+    "status": "discarded",
+    "reason": "PASS",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "article"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "feat",
+    "title": "vscode markdown container support",
+    "priority": "",
+    "status": "finished",
+    "reason": "FIXED",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "feat"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "bug",
+    "title": "vscode lag when input",
+    "priority": "",
+    "status": "finished",
+    "reason": "FIXED",
+    "detail": "[^vscode-lag-when-input]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "bug"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "feat",
+    "title": "vscode md flex",
+    "priority": "",
+    "status": "finished",
+    "reason": "FIXED",
+    "detail": "[^vscode-md-flex]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "feat"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "chore",
+    "title": "best-practice of md workflow",
+    "priority": "",
+    "status": "finished",
+    "reason": "ENOUGH",
+    "detail": "[^vscode-md-best-practice]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "chore"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "book",
+    "title": "frontend, backend to algo",
+    "priority": "",
+    "status": "discarded",
+    "reason": "LATER",
+    "detail": "[^book-coding-overview]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "book"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "chore",
+    "title": "control mkl repo size",
+    "priority": "",
+    "status": "finished",
+    "reason": "SOLVED",
+    "detail": "[^git-control-repo-size]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "chore"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "refactor",
+    "title": "change `index.yaml` to be `index.md`",
+    "priority": "",
+    "status": "discarded",
+    "reason": "PASS",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "refactor"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "project",
+    "title": "Legend of King Auto Simulate System",
+    "priority": "",
+    "status": "discarded",
+    "reason": "PASS",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "chore",
+    "title": "add color support for `build/init.zsh`",
+    "priority": "",
+    "status": "discarded",
+    "reason": "PASS",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "chore"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "article",
+    "title": "Prisma is not suitable for electron",
+    "priority": "",
+    "status": "discarded",
+    "reason": "PASS",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "article"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "plugin",
+    "title": "LinkToText",
+    "priority": "",
+    "status": "finished",
+    "reason": "PASS",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "plugin"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "chore",
+    "title": "change the default TOC config",
+    "priority": "",
+    "status": "finished",
+    "reason": "SOLVED",
+    "detail": "[^config-md-toc-depth]",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "chore"
+    ]
+  },
+  {
+    "sDate": "",
+    "eDate": "",
+    "category": "article",
+    "title": "shortcuts comparison",
+    "priority": "",
+    "status": "finished",
+    "reason": "FINISHED",
+    "detail": "",
+    "dates": [
+      null,
+      null
+    ],
+    "tags": [
+      "article"
+    ]
+  }
+]

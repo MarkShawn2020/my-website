@@ -14,12 +14,10 @@ const charMap = require('./config/data/pinyin.json');
 const {me} = require('./config/me');
 const {
     asyncLoadGallery,
-    getGithubRepoUrl,
-    getGithubRepoWebsiteUrl,
-    getGithubRepoLibraryUrl,
 } = require('./config/utils');
 const {blog} = require("./config/blog");
 const {fetchDocs} = require("./config/docs");
+const {fetchNavbar} = require("./config/navbar");
 
 const config = async function configCreatorAsync() {
     /** @type {import('@docusaurus/types').Config} */
@@ -70,49 +68,7 @@ const config = async function configCreatorAsync() {
         ],
 
         themeConfig: {
-            navbar: {
-                title: '南川笔记',
-                logo: {
-                    alt: 'My Site Logo',
-                    src: 'img/logo.svg',
-                },
-                items: [
-                    // must consist with the project under config
-                    // {
-                    //     type: 'doc',
-                    //     docId: 'books',
-                    //     position: 'left',
-                    //     label: 'My Books'
-                    // },
-                    {to: '/blog/archive', label: 'My Blog', position: 'left'},
-
-                    {
-                        type: 'doc', // 加了这个就直接跳转到doc主页了，to就无效了
-                        // to: '/docs/SLAM/A01-findLights',
-                        docId: 'index',
-                        position: 'left',
-                        label: 'My Notes',
-                    },
-
-                    {to: '/gallery', label: 'Gallery', position: 'left'},
-
-                    {
-                        href: getGithubRepoUrl(),
-                        label: 'Code of Framework',
-                        position: 'right',
-                    },
-                    {
-                        href: getGithubRepoWebsiteUrl(),
-                        label: 'Code of Website',
-                        position: 'right',
-                    },
-                    {
-                        href: getGithubRepoLibraryUrl(),
-                        label: 'Library',
-                        position: 'right',
-                    },
-                ],
-            },
+            navbar: await fetchNavbar(),
 
             footer: {
                 style: 'dark',
