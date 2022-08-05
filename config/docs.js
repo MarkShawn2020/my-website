@@ -20,7 +20,6 @@ const fetchDocs = async () =>
             // default id is a must, although I want to use 'dev-notes'
             // id: 'default',
             path: 'library/docs/', // By default, Docusaurus generates a sidebar from the docs folder structure, ref: https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#sidebarPath
-            exclude: ['library/docs/test'],
             // if enabled, the `editLocalizedFiles` would be invalid
             // sidebarPath: undefined,
             editUrl: getGithubEditUrl(), // enable local edit, ref: https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#configuration
