@@ -6,8 +6,11 @@
  */
 
 import React, {useState} from "react";
+
 import _ from "lodash";
+
 import {Card} from "antd";
+
 /**
  * search history:
  * - https://www.google.com/search?q=react+draggable+from+a+list+to+another+list&newwindow=1&sxsrf=ALiCzsaQUju5IBW_2qmaIgWvThCFEc7KAw%3A1659728993188&ei=YXTtYqKTC92e4-EP-u2riA0&ved=0ahUKEwjix7-ovLD5AhVdzzgGHfr2CtEQ4dUDCA4&uact=5&oq=react+draggable+from+a+list+to+another+list&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzoHCAAQRxCwA0oECEEYAEoECEYYAFDOCVjiDmDWD2gDcAF4AIABowGIAd0DkgEDMC4zmAEAoAEByAEIwAEB&sclient=gws-wiz-serp
@@ -19,10 +22,14 @@ import {
   Draggable,
   Droppable
 } from "react-beautiful-dnd";
+
 import {TaskStatus, taskStatuses} from "@site/src/ds/task";
 import type {ITask} from "@site/src/ds/task";
 
 import tasksRead from '@site/src/data/tasks.json'
+
+import Layout from "@theme/Layout";
+
 import type {
   DropResult
 } from "react-beautiful-dnd";
@@ -106,43 +113,47 @@ export function TaskManager(props: TaskManagerProps): JSX.Element {
   }
 
   return (
-    <div style={{display: "flex"}}>
+    <Layout>
+
       {/* eslint-disable-next-line react/jsx-no-bind */}
       <DragDropContext onDragEnd={onDragEnd}>
+        <div style={{display: "flex", flexWrap: 'wrap'}}>
 
-        {Object.keys(state).map((status: TaskStatus) => (
-          <Droppable droppableId={status} key={status} type={'TASK'}>
-            {
-              (provided) => (
-                <Card title={status}
-                      ref={provided.innerRef} {...provided.droppableProps}
-                      style={{background: taskStatus2Color(status)}}
-                >
-                  <ul>
-                    {Object.values(state[status])
-                      .map((task, index) => (
-                        <Draggable draggableId={task.title.replace(/\s+/g, '-')}
-                                   index={index}
-                                   key={task.title}>
-                          {
-                            (provided2) => (
-                              <li key={task.title}
-                                  ref={provided2.innerRef} {...provided2.draggableProps} {...provided2.dragHandleProps}>
-                                {task.title}
-                              </li>
-                            )
-                          }
-                        </Draggable>
-                      ))}
-                  </ul>
+          {Object.keys(state).map((status: TaskStatus) => (
+            <Droppable droppableId={status} key={status} type="TASK">
+              {
+                (provided) => (
+                  <Card title={status}
+                        ref={provided.innerRef} {...provided.droppableProps}
+                        style={{background: taskStatus2Color(status)}}
+                        bodyStyle={{maxHeight: '300px', overflow: 'auto'}}
+                  >
+                    <ul>
+                      {Object.values(state[status])
+                        .map((task, index) => (
+                          <Draggable draggableId={task.title.replace(/\s+/g, '-')}
+                                     index={index}
+                                     key={task.title}>
+                            {
+                              (provided2) => (
+                                <li key={task.title}
+                                    ref={provided2.innerRef} {...provided2.draggableProps} {...provided2.dragHandleProps}>
+                                  {task.title}
+                                </li>
+                              )
+                            }
+                          </Draggable>
+                        ))}
+                    </ul>
 
-                </Card>
-              )
-            }
-          </Droppable>
-        ))}
+                  </Card>
+                )
+              }
+            </Droppable>
+          ))}
+        </div>
       </DragDropContext>
-    </div>
+    </Layout>
   )
 }
 

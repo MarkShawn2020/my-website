@@ -180,4 +180,5 @@ const config = async function configCreatorAsync() {
     };
 };
 
+// compile to `module.exports` by tsc
 module.exports = config;

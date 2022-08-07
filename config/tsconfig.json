@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ESNext",
+    "paths": {
+      "@site/*": ["../*"]
+    },
+    "outDir": "../..", // "../..",
+    "rootDir": "../..",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "sourceMap": false,
+    "skipLibCheck": true,
+    "declaration": false
+  },
+  "include": [
+    "src/**/*.ts",
+    "../src/ds/task.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

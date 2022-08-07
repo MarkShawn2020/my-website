@@ -21,6 +21,7 @@ const blog = {
     postsPerPage: 5,
     exclude: [],
 
+    blogArchiveComponent: '@theme/BlogArchivePage',
     blogListComponent: '@theme/BlogListPage',
     blogPostComponent: '@theme/BlogPostPage',
     blogTagsListComponent: '@theme/BlogTagsListPage',

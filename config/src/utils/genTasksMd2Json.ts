@@ -4,16 +4,18 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-import * as path from "path";
 import {promises as fs} from "fs";
-import _ from "lodash";
-import {TaskStatus} from "../ds/task";
-import type {ITask} from "../ds/task";
 
-const todoFilePath = path.join(__dirname, '../../library/docs/TODO.md')
+import _ from "lodash";
+
+import {TaskStatus} from "@site/src/ds/task";
+
+import type {ITask} from "@site/src/ds/task";
+
+const todoFilePath = 'library/docs/TODO.md'
 console.log(`read todo from file://${todoFilePath}`)
 
-const genTasksMd2Json = async () => {
+export const genTasksMd2Json = async (): Promise<ITask[]> => {
   const content = await fs.readFile(todoFilePath, 'utf-8')
   let colNames: string[] = []
   const tasks: ITask[] = []
@@ -42,11 +44,7 @@ const genTasksMd2Json = async () => {
       }
     })
 
-  const outFilePath = path.join(__dirname, "../data/tasks.json")
-  await fs.writeFile(outFilePath,
-    JSON.stringify(tasks, null, 2),
-    'utf-8')
-  console.log(`dumped into file://${outFilePath}`)
+  return tasks
 }
 
-genTasksMd2Json()
+export default genTasksMd2Json
