@@ -4,15 +4,19 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-const {
+import {
     getGithubRepoUrl,
     getGithubRepoWebsiteUrl,
     getGithubRepoLibraryUrl
-} = require("./utils.js");
+} from "../utils/general"
+
+import type {Navbar} from '@docusaurus/theme-common'
 
 
-const getNavbar = async () => (
+export const fetchNavbar = async (): Promise<Navbar> => (
     {
+        hideOnScroll: false,
+
         title: '南川笔记',
         logo: {
             alt: 'My Site Logo',
@@ -64,6 +68,4 @@ const getNavbar = async () => (
     }
 )
 
-module.exports = {
-    fetchNavbar: getNavbar
-}
+export default fetchNavbar

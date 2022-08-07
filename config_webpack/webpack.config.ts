@@ -7,17 +7,9 @@
 
 import path from "path"
 
-// import MiniCssExtractPlugin from "mini-css-extract-plugin"
-
-// uncomment it to let fs/path being compiled
-import nodeExternals from 'webpack-node-externals'
-
-// import {TsconfigPathsPlugin} from "tsconfig-paths-webpack-plugin";
-
 import type {Configuration} from 'webpack/types'
 
-
-const isProduction = process.env.NODE_ENV === "production";
+import nodeExternals from 'webpack-node-externals'
 
 const config: Configuration = {
   resolve: {
@@ -31,7 +23,7 @@ const config: Configuration = {
   output: {
     filename: 'docusaurus.config.webpack.js',
     path: path.resolve(__dirname, ".."),
-    library: { // 这两个非常关键
+    library: { // --> IMPORTANT <--
       type: 'commonjs-module',
       export: 'default'
     }
@@ -39,8 +31,7 @@ const config: Configuration = {
   target: 'node',             // must enable, otherwise can't resolve `fs|path`
   node: {
     __dirname: true          // /my-website/src/css/theme.css
-  //   __dirname: false         // /my-website/css/theme.css (default)
-  //   __dirname: 'eval-only'   // /my-website/css/theme.css
+    // __dirname: false      // /my-website/css/theme.css (default)
   },
   externals: [nodeExternals()],
 
@@ -54,6 +45,8 @@ const config: Configuration = {
     ],
   },
 };
+
+const isProduction = process.env.NODE_ENV === "production";
 
 module.exports = () => {
   if (isProduction) {

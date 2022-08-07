@@ -1,13 +1,9 @@
 {
-    // This file is not used in compilation. It is here just for a nice editor experience.
-//  "extends": "@tsconfig/docusaurus/tsconfig.json",
   "compilerOptions": {
-    "resolveJsonModule": true,
-    "paths": {
+    "resolveJsonModule": true, // can be omitted, maybe has been handled by ts-node
+    "esModuleInterop": true,   // cannot be omitted
+    "paths": {                 // handle the path aliases
       "@site/*": ["./*"]
     }
-  },
-  "include": [
-    "src"
-  ]
+  }
 }

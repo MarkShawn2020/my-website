@@ -5,9 +5,9 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import historyVersions from '@site/versions.json'
+import historyVersions from '../../../../../../versions.json'
 
-import gitVersions from '@site/library/GIT_VERSIONS.json'
+import gitVersions from '../../../../../../library/GIT_VERSIONS.json'
 
 import {me, meCustom} from '../me'
 

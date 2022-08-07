@@ -1,0 +1,16 @@
+'use strict';
+
+
+require("tsconfig-paths").register({
+    baseUrl: "./",
+    paths: require("./tsconfig.json").compilerOptions.paths,
+});
+
+require('ts-node').register({
+    scope: true,
+    scopeDir: __dirname,
+    swc: true,
+    transpileOnly: true,
+});
+
+module.exports = require('./config/src/index.ts');

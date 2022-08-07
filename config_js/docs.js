@@ -9,7 +9,7 @@ const pluginRemarkMath = require("remark-math");
 const pluginRehypeKatex = require("rehype-katex");
 
 const {pluginRehypeCrossrefReformat} = require("./plugin-rehype-crossref-reformat");
-const {getGithubEditUrl, getLatestVersion} = require("./utils");
+const {getGithubEditUrl, getLatestVersion} = require("./utils.js");
 
 
 const fetchDocs = async () =>

@@ -5,9 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import versionsList from '@site/library/GIT_VERSIONS.json'
-
-console.log({versionsList})
+import versionsList from '../../../library/GIT_VERSIONS.json'
 
 import {me, meCustom} from '../me'
 

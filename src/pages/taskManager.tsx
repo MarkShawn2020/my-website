@@ -23,12 +23,15 @@ import {
   Droppable
 } from "react-beautiful-dnd";
 
-import {TaskStatus, taskStatuses} from "@site/src/ds/task";
-import type {ITask} from "@site/src/ds/task";
-
-import tasksRead from '@site/src/data/tasks.json'
+import useDocusaurusContext
+  from "@docusaurus/core/lib/client/exports/useDocusaurusContext";
 
 import Layout from "@theme/Layout";
+
+import {TaskStatus, taskStatuses} from "../ds/task";
+
+import type {ITask} from "../ds/task";
+
 
 import type {
   DropResult
@@ -71,7 +74,7 @@ const taskStatus2Color = (status: TaskStatus): string => {
   }
 }
 
-export function TaskManager(props: TaskManagerProps): JSX.Element {
+export function TaskManagerPure(props: TaskManagerProps): JSX.Element {
   // pipeline, ref:
   // - https://github.com/lodash/lodash/issues/1459#issuecomment-253969771
   // - https://lodash.com/docs/4.17.15#sortBy
@@ -131,9 +134,10 @@ export function TaskManager(props: TaskManagerProps): JSX.Element {
                     <ul>
                       {Object.values(state[status])
                         .map((task, index) => (
-                          <Draggable draggableId={task.title.replace(/\s+/g, '-')}
-                                     index={index}
-                                     key={task.title}>
+                          <Draggable
+                            draggableId={task.title.replace(/\s+/g, '-')}
+                            index={index}
+                            key={task.title}>
                             {
                               (provided2) => (
                                 <li key={task.title}
@@ -157,6 +161,12 @@ export function TaskManager(props: TaskManagerProps): JSX.Element {
   )
 }
 
-export default (): JSX.Element => TaskManager({
-  tasks: tasksRead as unknown as ITask[]
-})
+
+export function TaskManager(): JSX.Element {
+  const context = useDocusaurusContext()
+  const {tasks} = context.siteConfig.customFields as { tasks: ITask[] | undefined }
+
+  return <TaskManagerPure tasks={tasks ?? []}/>
+}
+
+export default TaskManager

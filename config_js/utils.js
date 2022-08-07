@@ -9,7 +9,7 @@ const path = require('path');
 const {promises: fs} = require('fs');
 
 const historyVersions = require('../versions.json');
-const {me, meCustom} = require('./me');
+const {me, meCustom} = require('./me.js');
 
 const getGithubRepoUrl = () =>
   `https://github.com/${me.organizationName}/${me.projectName}`;

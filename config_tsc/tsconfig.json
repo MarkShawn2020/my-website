@@ -1,17 +1,16 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
     "module": "commonjs",
-    "target": "ESNext",
-    "paths": {
-      "@site/*": ["../*"]
-    },
-    "outDir": "../..", // "../..",
+    "target": "esnext",
+    "outDir": "../..",
     "rootDir": "../..",
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "moduleResolution": "node",
     "sourceMap": false,
     "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
     "declaration": false
   },
   "include": [
@@ -19,6 +18,6 @@
     "../src/ds/task.ts"
   ],
   "exclude": [
-    "node_modules"
+    "**/node_modules"
   ]
 }
