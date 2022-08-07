@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "resolveJsonModule": true, // can be omitted, maybe has been handled by ts-node
-    "esModuleInterop": true,   // cannot be omitted
-    "paths": {                 // handle the path aliases
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "paths": {
       "@site/*": ["./*"]
     }
   }
