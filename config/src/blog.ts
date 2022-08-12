@@ -10,7 +10,7 @@ import {getGithubEditUrl} from "./utils/general";
 import type {Options} from "@docusaurus/plugin-content-blog"
 
 export const blog: Options= {
-    path: 'library/blog/public',
+    path: 'library/blog',
     showReadingTime: true,
     editUrl: getGithubEditUrl(),
     blogDescription: 'A Docusaurus powered blog!',
