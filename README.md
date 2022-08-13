@@ -1,15 +1,6 @@
-# 🚀 Welcome to your new awesome project!
+## Jump
 
-This project has been created using **webpack-cli**, you can now run
+- [docusaurus-my-framework](https://github.com/markshawn2020/keeeps-learning)
+- [docusaurus-my-website](https://github.com/markshawn2020/docusaurus-my-website)
+- [docusaurus-my-documents](https://github.com/markshawn2020/my-documents)
 
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
