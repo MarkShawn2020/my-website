@@ -46,6 +46,7 @@
     "@types/antd": "^1.0.0",
     "@types/jest": "^28.1.6",
     "@types/lodash": "^4.14.182",
+    "@types/node": "^18.7.2",
     "@types/react-beautiful-dnd": "^13.1.2",
     "@zerollup/ts-transform-paths": "^1.7.18",
     "esbuild-loader": "^2.19.0",
