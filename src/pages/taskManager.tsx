@@ -80,14 +80,13 @@ export function TaskManagerPure(props: TaskManagerProps): JSX.Element {
   // - https://lodash.com/docs/4.17.15#sortBy
   const [state, setState] = useState(
     _(props.tasks)
+      .map(t => {t.status = t.status ?? TaskStatus.pending; return t})
       .groupBy(t => t.status)
       .toPairs()
       .sortBy(item => taskStatuses.indexOf(item[0]))
       .fromPairs()
       .value()
   )
-
-  console.log(state)
 
   function onDragEnd(result: DropResult) {
     const {source, destination} = result;
