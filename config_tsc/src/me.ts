@@ -17,7 +17,7 @@ export const me = {
 
 export const meCustom = {
   projectWebsiteMame: 'docusaurus-my-website',
-  projectLibraryName: 'keeeps-learning',
+  projectFrameworkName: 'keeeps-learning',
 };
 
 export default ({

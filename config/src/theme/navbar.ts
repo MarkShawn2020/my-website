@@ -51,17 +51,17 @@ export const fetchNavbar = async (): Promise<Navbar> => (
 
             {
                 href: getGithubRepoUrl(),
-                label: 'Code of Framework',
+                label: 'Source of Framework',
                 position: 'right',
             },
             {
                 href: getGithubRepoWebsiteUrl(),
-                label: 'Code of Website',
+                label: 'Source of Website',
                 position: 'right',
             },
             {
                 href: getGithubRepoLibraryUrl(),
-                label: 'Library',
+                label: 'Source of Documents',
                 position: 'right',
             },
         ],

@@ -16,6 +16,8 @@ import {getGithubEditUrl, getLatestVersion} from "./utils/general"
 import type {MDXPlugin} from "@docusaurus/mdx-loader";
 
 import type {Options} from "@docusaurus/plugin-content-docs"
+import {meCustom} from "./me";
+import path from "path";
 
 export const fetchDocs = async (): Promise<Options> =>
   (
@@ -31,7 +33,7 @@ export const fetchDocs = async (): Promise<Options> =>
 
       // default id is a must, although I want to use 'dev-notes'
       // id: 'default',
-      path: 'library/docs/', // By default, Docusaurus generates a sidebar from the docs folder structure, ref: https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#sidebarPath
+      path: path.join(meCustom.projectDocumentsPath, 'docs'), // By default, Docusaurus generates a sidebar from the docs folder structure, ref: https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#sidebarPath
       // if enabled, the `editLocalizedFiles` would be invalid
       // sidebarPath: undefined,
       editUrl: getGithubEditUrl(), // enable local edit, ref: https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#configuration

@@ -16,8 +16,13 @@ export const me = {
 };
 
 export const meCustom = {
+  projectFrameworkName: 'keeeps-learning',
   projectWebsiteMame: 'docusaurus-my-website',
-  projectLibraryName: 'keeeps-learning',
+  /**
+   * 第三级路径，从本工程到文档的相对路径，用于后续的路径拼接，可以为：
+   * /(\.\/)?my-documents\/?/
+   */
+  projectDocumentsPath: 'my-documents'
 };
 
 export default ({

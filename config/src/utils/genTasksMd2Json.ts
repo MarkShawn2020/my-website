@@ -11,8 +11,10 @@ import _ from "lodash";
 import {TaskStatus} from "@site/src/ds/task";
 
 import type {ITask} from "@site/src/ds/task";
+import path from "path";
+import {meCustom} from "../me";
 
-const todoFilePath = 'library/docs/TODO.md'
+const todoFilePath = path.join(meCustom.projectDocumentsPath, 'docs/TODO.md')
 console.log(`read todo from file://${todoFilePath}`)
 
 export const genTasksMd2Json = async (): Promise<ITask[]> => {

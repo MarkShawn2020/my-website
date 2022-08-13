@@ -17,7 +17,7 @@ const me = {
 
 const meCustom = {
   projectWebsiteMame: 'docusaurus-my-website',
-  projectLibraryName: 'keeeps-learning',
+  projectFrameworkName: 'keeeps-learning',
 };
 
 module.exports = {

@@ -8,9 +8,11 @@
 import {getGithubEditUrl} from "./utils/general";
 
 import type {Options} from "@docusaurus/plugin-content-blog"
+import {meCustom} from "./me";
+import path from "path";
 
 export const blog: Options= {
-    path: 'library/blog',
+    path: path.join(meCustom.projectDocumentsPath, 'blog'),
     showReadingTime: true,
     editUrl: getGithubEditUrl(),
     blogDescription: 'A Docusaurus powered blog!',
