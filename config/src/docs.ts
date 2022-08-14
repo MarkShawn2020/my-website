@@ -4,20 +4,21 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
+import path from "path";
+
 import pluginMdxMermaid from 'mdx-mermaid'
 import pluginRemarkMath from 'remark-math'
 import pluginRehypeKatex from 'rehype-katex'
-
 
 import pluginRehypeCrossrefReformat
   from "./plugins/plugin-rehype-crossref-reformat"
 import {getGithubEditUrl, getLatestVersion} from "./utils/general"
 
+import {meCustom} from "./me";
+
 import type {MDXPlugin} from "@docusaurus/mdx-loader";
 
 import type {Options} from "@docusaurus/plugin-content-docs"
-import {meCustom} from "./me";
-import path from "path";
 
 export const fetchDocs = async (): Promise<Options> =>
   (

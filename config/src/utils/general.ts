@@ -5,11 +5,11 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import versionsList from '@site/my-documents/GIT_VERSIONS.json'
-
-console.log({versionsList})
+import versionsList from '../../../my-documents/GIT_VERSIONS.json'
 
 import {me, meCustom} from '../me'
+
+console.log({versionsList})
 
 export const getGithubRepoUrl = (): string =>
   `https://github.com/${me.organizationName}/${me.projectName}`;

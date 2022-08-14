@@ -4,17 +4,19 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-import {promises as fs} from "fs";
+import { promises as fs } from "fs";
+
+import path from "path";
 
 import _ from "lodash";
 
-import {TaskStatus} from "@site/src/ds/task";
+import { TaskStatus } from "../../../src/ds/task";
 
-import type {ITask} from "@site/src/ds/task";
-import path from "path";
-import {meCustom} from "../me";
+import { meCustom } from "../me";
 
-const todoFilePath = path.join(meCustom.projectDocumentsPath, 'docs/TODO.md')
+import type { ITask } from "../../../src/ds/task";
+
+const todoFilePath = path.join(meCustom.projectDocumentsPath, 'TODO.md')
 console.log(`read todo from file://${todoFilePath}`)
 
 export const genTasksMd2Json = async (): Promise<ITask[]> => {

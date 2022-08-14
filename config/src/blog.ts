@@ -5,11 +5,13 @@
  * LICENSE file in the root directory of this source tree.
  */
 
+import path from "path";
+
 import {getGithubEditUrl} from "./utils/general";
 
-import type {Options} from "@docusaurus/plugin-content-blog"
 import {meCustom} from "./me";
-import path from "path";
+
+import type {Options} from "@docusaurus/plugin-content-blog"
 
 export const blog: Options= {
     path: path.join(meCustom.projectDocumentsPath, 'blog'),
