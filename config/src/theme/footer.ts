@@ -41,6 +41,10 @@ export const footer: Footer = {
           label: 'Documentation',
           href: 'https://docusaurus.io/docs/category/guides',
         },
+        {
+          label: "Case: Joshua Chen",
+          href: 'https://joshcena.com/'
+        }
       ],
     },
 
