@@ -24,39 +24,82 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '10-Years Programmer',
     Svg: svgMountain,
     description: (
-      <Translate>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </Translate>
+      <ul>
+        <li>
+          <Translate>
+            Summary: A coder crazy at anything cool.
+          </Translate>
+        </li>
+
+        <li>
+          <Translate>
+            Ability: Fullstack / Framework / SLAM / ...
+          </Translate>
+        </li>
+
+        <li>
+          <Translate>
+            Langs: Python, TypeScript, C++, VBA, OpenGL ...
+          </Translate>
+        </li>
+      </ul>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Efficiency-Oriented Utilitarian & Dreamer',
     Svg: svgTree,
     description: (
       <>
-        <Translate>
-          Docusaurus lets you focus on your docs, and we&apos;ll do the chores.
-          Go ahead and move your docs into the
-        </Translate>
-        <code>
-          <Translate>docs</Translate>
-        </code>
-        <Translate>directory.</Translate>
+        <ul>
+          <li>
+            <Translate>
+              Devoted to build a secondary brain based on markdown.
+            </Translate>
+          </li>
+
+          <li>
+            <Translate>
+              Full of different, sometimes crazy ideas all the day.
+            </Translate>
+          </li>
+
+          <li>
+            <Translate>
+              Keeps learning, keeps coding, keeps thinking & sharing.
+            </Translate>
+          </li>
+        </ul>
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Quantitative Strategies Developer',
     Svg: svgReact,
     description: (
-      <Translate>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </Translate>
+      <ul>
+
+        <li>
+          <Translate>
+            Fluent with both primary & secondary financial markets.
+          </Translate>
+        </li>
+
+        <li>
+          <Translate>
+            Experienced with quantitative strategies development.
+          </Translate>
+        </li>
+
+        <li>
+          <Translate>
+            Ambitious to build a system making money automatically.
+          </Translate>
+        </li>
+
+      </ul>
     ),
   },
 ];
@@ -65,7 +108,7 @@ function Feature({title, Svg, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Svg className={styles.featureSvg} role="img"/>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

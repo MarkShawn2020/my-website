@@ -11,6 +11,11 @@ ul {
     padding-inline-start: 5px;
 }
 
+li {
+    text-align: left;
+}
+
+
 /**
 z-index problem: https://www.freecodecamp.org/news/4-reasons-your-z-index-isnt-working-and-how-to-fix-it-coder-coder-6bc05f103e6c/
  */

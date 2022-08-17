@@ -4,6 +4,7 @@
     "esModuleInterop": true,
     "paths": {
       "@site/*": ["./*"]
-    }
+    },
+    "jsx": "react"
   }
 }
