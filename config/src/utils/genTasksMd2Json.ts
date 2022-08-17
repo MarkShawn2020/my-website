@@ -19,6 +19,19 @@ import type { ITask } from "../../../src/ds/task";
 const todoFilePath = path.join(meCustom.projectDocumentsPath, 'TODO.md')
 console.log(`read todo from file://${todoFilePath}`)
 
+export interface ITaskFromMD {
+  sDate: string
+  eDate: string
+  category: string
+  title: string
+  priority: number
+  status: string
+  reason: string
+  detail: string
+}
+
+
+
 export const genTasksMd2Json = async (): Promise<ITask[]> => {
   const content = await fs.readFile(todoFilePath, 'utf-8')
   let colNames: string[] = []
@@ -33,8 +46,7 @@ export const genTasksMd2Json = async (): Promise<ITask[]> => {
         if (matchedLines === 0) {
           colNames = matchedCells
         } else if (matchedLines > 1) {
-          const taskObj = _.zipObject(colNames, matchedCells) as unknown as
-            { sDate: string, eDate: string, category: string, title: string, priority: number, status: string, reason: string, detail: string }
+          const taskObj = _.zipObject(colNames, matchedCells) as unknown as ITaskFromMD
           const task: ITask = {
             ...taskObj,
             dates: [new Date(taskObj.sDate), new Date(taskObj.eDate)],

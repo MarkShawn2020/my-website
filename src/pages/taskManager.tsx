@@ -141,7 +141,7 @@ export function TaskManagerPure(props: TaskManagerProps): JSX.Element {
                               (provided2) => (
                                 <li key={task.title}
                                     ref={provided2.innerRef} {...provided2.draggableProps} {...provided2.dragHandleProps}>
-                                  {task.title}
+                                  {`${task.category}:${task.title}`}
                                 </li>
                               )
                             }
