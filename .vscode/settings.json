@@ -6,8 +6,10 @@
         "dbcracker",
         "diss",
         "douban",
+        "dtrace",
         "envsetup",
         "fastcv",
+        "feishu",
         "ganta",
         "gantt",
         "inuitive",
@@ -16,6 +18,7 @@
         "Netease",
         "pico",
         "scrapy",
+        "sqlchipher",
         "userdebug",
         "yolo"
     ]
