@@ -5,6 +5,23 @@
  * LICENSE file in the root directory of this source tree.
  */
 
+.plugin-blog main .container li {
+    /*width: 250px;*/
+}
+
+.plugin-blog main .container li a {
+    /*
+        1. do not use `display: inline-block` since the bullet would not align well
+        2. the default is `display: inline`, and it would have no effect with `overflow`
+        3. ref: https://stackoverflow.com/a/17783233/9422455
+     */
+    display:block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-family: "Songti SC", monospace;
+}
 
 ul {
     padding-inline-start: 5px;
