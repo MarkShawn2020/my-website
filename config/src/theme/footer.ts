@@ -58,6 +58,10 @@ export const footer: Footer = {
         {
           label: "Google Analytics",
           href: "https://analytics.google.com/analytics/web/#/p324822374/reports/reportinghub?params=_u.dateOption%3DthisWeekSatToToday"
+        },
+        {
+          label: "AWS EC2 Monitor (VPN)",
+          href: "https://ap-east-1.console.aws.amazon.com/ec2/home?region=ap-east-1#InstanceDetails:instanceId=i-02fffe2800e2025e1"
         }
       ]
     },
