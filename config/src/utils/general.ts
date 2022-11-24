@@ -18,7 +18,7 @@ export const getGithubRepoWebsiteUrl = (): string =>
   `https://github.com/${me.organizationName}/${meCustom.projectWebsiteMame}`;
 
 export const getGithubRepoLibraryUrl = (): string =>
-  `https://github.com/${me.organizationName}/${meCustom.projectFrameworkName}`;
+  `https://github.com/${me.organizationName}/${meCustom.projectDocumentsPath}`;
 
 export const getGithubEditUrl = (): string =>
   `${getGithubRepoUrl()}/edit/master/`;
