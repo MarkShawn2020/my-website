@@ -1,4 +1,4 @@
 [submodule "my-documents"]
 	path = my-documents
-	url = https://github.com/markshawn2020/my-documents
+	url = https://github.com/m-archive-blog/my-documents
 	branch = main
