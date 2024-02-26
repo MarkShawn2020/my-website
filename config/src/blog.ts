@@ -7,13 +7,13 @@
 
 import path from "path";
 
-import {getGithubEditUrl} from "./utils/general";
+import { getGithubEditUrl } from "./utils/general";
 
-import {meCustom} from "./me";
+import { meCustom } from "./me";
 
-import type {Options} from "@docusaurus/plugin-content-blog"
+import type { Options } from "@docusaurus/plugin-content-blog"
 
-export const blog: Options= {
+export const blog: Options = {
     path: path.join(meCustom.projectDocumentsPath, 'blog'),
     showReadingTime: true,
     editUrl: getGithubEditUrl(),
@@ -31,6 +31,8 @@ export const blog: Options= {
     blogTagsPostsComponent: '@theme/BlogTagsPostsPage',
 
     truncateMarker: /.*^##/,
+
+    sortPosts: "descending"
 }
 
 export default ({
