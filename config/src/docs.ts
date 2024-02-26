@@ -29,7 +29,9 @@ export const fetchDocs = async (): Promise<Options> =>
       ],
       rehypePlugins: [
         pluginRehypeCrossrefReformat,
-        pluginRehypeKatex as MDXPlugin,
+        [pluginRehypeKatex, {
+        // suppress warning，通过`input and strict mode`定位到这个包的
+        strict: false}] as MDXPlugin,
       ],
 
       // default id is a must, although I want to use 'dev-notes'
