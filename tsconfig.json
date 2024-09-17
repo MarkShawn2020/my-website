@@ -1,0 +1,16 @@
+{
+  "extends": "@tsconfig/docusaurus/tsconfig.json",
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "paths": {
+      "@comps/*": ["./src/components/*"],
+      "@site/*": ["./*"]
+    },
+    "jsx": "react"
+  },
+  "include": [
+    "src",
+    "my-documents"
+  ]
+}
