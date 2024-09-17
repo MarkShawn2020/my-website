@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/vim",
+  "id": "coding/vim",
+  "title": "vim",
+  "description": "vim 中文乱码",
+  "source": "@site/my-documents/docs/coding/vim.md",
+  "sourceDirName": "coding",
+  "slug": "/coding/vim",
+  "permalink": "/docs/coding/vim",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/vim.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "install python 3.11",
+    "permalink": "/docs/coding/python"
+  },
+  "next": {
+    "title": "websocket",
+    "permalink": "/docs/coding/websocket"
+  }
+}

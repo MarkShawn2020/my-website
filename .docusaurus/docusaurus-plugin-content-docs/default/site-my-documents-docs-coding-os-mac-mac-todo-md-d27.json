@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/Mac/mac-todo",
+  "id": "coding/OS/Mac/mac-todo",
+  "title": "Mac Todo",
+  "description": "1. TODO: configure python3 as the default python with no harm to the MacOS system",
+  "source": "@site/my-documents/docs/coding/OS/Mac/mac-todo.md",
+  "sourceDirName": "coding/OS/Mac",
+  "slug": "/coding/OS/Mac/mac-todo",
+  "permalink": "/docs/coding/OS/Mac/mac-todo",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/Mac/mac-todo.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "how to migrate mac",
+    "permalink": "/docs/coding/OS/Mac/mac-migrate"
+  },
+  "next": {
+    "title": "mac what",
+    "permalink": "/docs/coding/OS/Mac/mac-what"
+  }
+}

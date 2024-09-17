@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/JS/React/react-whyso",
+  "id": "coding/Languages/JS/React/react-whyso",
+  "title": "react-whyso",
+  "description": "why react not render into body directly?",
+  "source": "@site/my-documents/docs/coding/Languages/JS/React/react-whyso.md",
+  "sourceDirName": "coding/Languages/JS/React",
+  "slug": "/coding/Languages/JS/React/react-whyso",
+  "permalink": "/docs/coding/Languages/JS/React/react-whyso",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/React/react-whyso.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "react-howto",
+    "permalink": "/docs/coding/Languages/JS/React/react-howto"
+  },
+  "next": {
+    "title": "Vue howto",
+    "permalink": "/docs/coding/Languages/JS/Vue/vue-howto"
+  }
+}

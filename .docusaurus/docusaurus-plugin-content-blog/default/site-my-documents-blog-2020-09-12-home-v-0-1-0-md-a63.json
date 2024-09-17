@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/home",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2020/09-12-home-v0.1.0.md",
+  "source": "@site/my-documents/blog/2020/09-12-home-v0.1.0.md",
+  "title": "南川笔记中文首页",
+  "description": "南川笔记中文首页",
+  "date": "2020-09-12T00:00:00.000Z",
+  "formattedDate": "2020/09/12",
+  "tags": [],
+  "readingTime": 6.52,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "relativePath": "zh/index.md",
+    "slug": "/home",
+    "private": true,
+    "title": "南川笔记中文首页",
+    "menuTitle": "首页",
+    "category": "关于",
+    "description": "南川笔记中文首页",
+    "position": 1,
+    "version": "0.1.0",
+    "fullScreen": false,
+    "liveEdit": false
+  },
+  "prevItem": {
+    "title": "BUG FIX",
+    "permalink": "/blog/bug_fix"
+  },
+  "nextItem": {
+    "title": "待办事项",
+    "permalink": "/blog/todo-old"
+  }
+}

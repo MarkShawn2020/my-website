@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/virtual-machine/vmware-index",
+  "id": "coding/OS/virtual-machine/vmware-index",
+  "title": "vmware",
+  "description": "feat: config wifi",
+  "source": "@site/my-documents/docs/coding/OS/virtual-machine/vmware-index.md",
+  "sourceDirName": "coding/OS/virtual-machine",
+  "slug": "/coding/OS/virtual-machine/vmware-index",
+  "permalink": "/docs/coding/OS/virtual-machine/vmware-index",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/virtual-machine/vmware-index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "vmware howto",
+    "permalink": "/docs/coding/OS/virtual-machine/vmware-howto"
+  },
+  "next": {
+    "title": "Poketto Dev Notes",
+    "permalink": "/docs/coding/Poketto Dev Notes"
+  }
+}

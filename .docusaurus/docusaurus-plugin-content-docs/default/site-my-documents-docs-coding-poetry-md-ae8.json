@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/poetry",
+  "id": "coding/poetry",
+  "title": "poetry",
+  "description": "ref//python-poetry.org/docs/#installing-with-the-official-installer",
+  "source": "@site/my-documents/docs/coding/poetry.md",
+  "sourceDirName": "coding",
+  "slug": "/coding/poetry",
+  "permalink": "/docs/coding/poetry",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/poetry.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "nextjs",
+    "permalink": "/docs/coding/nextjs"
+  },
+  "next": {
+    "title": "install python 3.11",
+    "permalink": "/docs/coding/python"
+  }
+}

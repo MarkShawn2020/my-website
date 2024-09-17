@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/Mac/mac-migrate",
+  "id": "coding/OS/Mac/mac-migrate",
+  "title": "how to migrate mac",
+  "description": "1. backup and reinstall mac",
+  "source": "@site/my-documents/docs/coding/OS/Mac/mac-migrate.md",
+  "sourceDirName": "coding/OS/Mac",
+  "slug": "/coding/OS/Mac/mac-migrate",
+  "permalink": "/docs/coding/OS/Mac/mac-migrate",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/Mac/mac-migrate.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "mac-howto",
+    "permalink": "/docs/coding/OS/Mac/mac-howto"
+  },
+  "next": {
+    "title": "Mac Todo",
+    "permalink": "/docs/coding/OS/Mac/mac-todo"
+  }
+}

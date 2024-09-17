@@ -1,0 +1,28 @@
+{
+  "unversionedId": "coding/Languages/JS/es6/reference",
+  "id": "coding/Languages/JS/es6/reference",
+  "title": "参考链接",
+  "description": "官方文件",
+  "source": "@site/my-documents/docs/coding/Languages/JS/es6/reference.md",
+  "sourceDirName": "coding/Languages/JS/es6",
+  "slug": "/coding/Languages/JS/es6/reference",
+  "permalink": "/docs/coding/Languages/JS/es6/reference",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/es6/reference.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "position": 31
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Proxy",
+    "permalink": "/docs/coding/Languages/JS/es6/proxy"
+  },
+  "next": {
+    "title": "Reflect",
+    "permalink": "/docs/coding/Languages/JS/es6/reflect"
+  }
+}

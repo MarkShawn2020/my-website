@@ -1,0 +1,28 @@
+{
+  "unversionedId": "coding/Languages/JS/es6/generator-async",
+  "id": "coding/Languages/JS/es6/generator-async",
+  "title": "Generator 函数的异步应用",
+  "description": "异步编程对 JavaScript 语言太重要。JavaScript 语言的执行环境是“单线程”的，如果没有异步编程，根本没法用，非卡死不可。本章主要介绍 Generator 函数如何完成异步操作。",
+  "source": "@site/my-documents/docs/coding/Languages/JS/es6/generator-async.md",
+  "sourceDirName": "coding/Languages/JS/es6",
+  "slug": "/coding/Languages/JS/es6/generator-async",
+  "permalink": "/docs/coding/Languages/JS/es6/generator-async",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/es6/generator-async.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "position": 19
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "函数的扩展",
+    "permalink": "/docs/coding/Languages/JS/es6/function"
+  },
+  "next": {
+    "title": "Generator 函数的语法",
+    "permalink": "/docs/coding/Languages/JS/es6/generator"
+  }
+}

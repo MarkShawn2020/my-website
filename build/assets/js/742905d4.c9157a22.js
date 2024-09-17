@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[63713],{53651:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/vuepress","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"A Docusaurus powered blog!","blogTitle":"Blog"}')}}]);

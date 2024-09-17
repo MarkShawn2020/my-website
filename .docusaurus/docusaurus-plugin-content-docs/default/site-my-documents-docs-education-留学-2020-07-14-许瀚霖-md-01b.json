@@ -1,0 +1,65 @@
+{
+  "unversionedId": "education/留学/2020-07-14-许瀚霖",
+  "id": "education/留学/2020-07-14-许瀚霖",
+  "title": "许瀚霖：香港大学申请经验",
+  "description": "这是一个双非学生出境申请教训贴都是泪啊😿🤕",
+  "source": "@site/my-documents/docs/education/留学/2020-07-14-许瀚霖.md",
+  "sourceDirName": "education/留学",
+  "slug": "/education/留学/许瀚林的港大申请经验",
+  "permalink": "/docs/education/留学/许瀚林的港大申请经验",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/education/留学/2020-07-14-许瀚霖.md",
+  "tags": [
+    {
+      "label": "留学",
+      "permalink": "/docs/tags/留学"
+    },
+    {
+      "label": "南审",
+      "permalink": "/docs/tags/南审"
+    },
+    {
+      "label": "香港大学",
+      "permalink": "/docs/tags/香港大学"
+    },
+    {
+      "label": "金融",
+      "permalink": "/docs/tags/金融"
+    },
+    {
+      "label": "CFA",
+      "permalink": "/docs/tags/cfa"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "许瀚霖：香港大学申请经验",
+    "date": "2020-07-14T00:00:00.000Z",
+    "tags": [
+      "留学",
+      "南审",
+      "香港大学",
+      "金融",
+      "CFA"
+    ],
+    "slug": "许瀚林的港大申请经验",
+    "cover": "https://mark-vue-oss.oss-cn-hangzhou.aliyuncs.com/typora/20200814090535.png?x-oss-process=style/cover-compress",
+    "menuTitle": "2020-07-14-许瀚霖",
+    "description": "这是一个双非学生出境申请教训贴都是泪啊😿🤕",
+    "relativePath": "zh/文集/研究生升学案例/留学专辑/2020-07-14-许瀚霖.md",
+    "category": "留学",
+    "version": "0.1.0",
+    "fullScreen": false
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "郭峻林：哥伦比亚大学申请经验",
+    "permalink": "/docs/文集/2020-07-02-郭峻林"
+  },
+  "next": {
+    "title": "邱婧逸：香港中文大学经济学申请经验",
+    "permalink": "/docs/education/留学/2020-09-14-留学-邱婧逸：香港中文大学经济学申请经验"
+  }
+}

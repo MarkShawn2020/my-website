@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/JS/CodeQuality_eslint_prettier_jest/jest-howto",
+  "id": "coding/Languages/JS/CodeQuality_eslint_prettier_jest/jest-howto",
+  "title": "jest howto",
+  "description": "[toc]",
+  "source": "@site/my-documents/docs/coding/Languages/JS/CodeQuality_eslint_prettier_jest/jest-howto.md",
+  "sourceDirName": "coding/Languages/JS/CodeQuality_eslint_prettier_jest",
+  "slug": "/coding/Languages/JS/CodeQuality_eslint_prettier_jest/jest-howto",
+  "permalink": "/docs/coding/Languages/JS/CodeQuality_eslint_prettier_jest/jest-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/CodeQuality_eslint_prettier_jest/jest-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "eslint prettier typescript",
+    "permalink": "/docs/coding/Languages/JS/CodeQuality_eslint_prettier_jest/eslint-prettier-typescript"
+  },
+  "next": {
+    "title": "electron-bugfix",
+    "permalink": "/docs/coding/Languages/JS/Electron/electron-bugfix"
+  }
+}

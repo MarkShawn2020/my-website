@@ -1,0 +1,36 @@
+{
+  "permalink": "/blog/2022/07/02/dev-gaokao",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2022/07-02-dev-gaokao.md",
+  "source": "@site/my-documents/blog/2022/07-02-dev-gaokao.md",
+  "title": "编程 | 使用 pandas 研究高考志愿填报",
+  "description": "近日，我叔为我弟高考志愿填报的事情焦头烂额。（江苏高考志愿填报竟然能多达 40 个了，你敢信！）",
+  "date": "2022-07-02T00:00:00.000Z",
+  "formattedDate": "2022/07/02",
+  "tags": [
+    {
+      "label": "开发笔记",
+      "permalink": "/blog/tags/开发笔记"
+    },
+    {
+      "label": "数据分析",
+      "permalink": "/blog/tags/数据分析"
+    }
+  ],
+  "readingTime": 17.355,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "开发笔记",
+      "数据分析"
+    ]
+  },
+  "prevItem": {
+    "title": "札记 | 我与我周旋久，我亦是我",
+    "permalink": "/blog/2022/07/11/prose-I-am-me"
+  },
+  "nextItem": {
+    "title": "编程 | GoPro 02: 玩转 OpenLab",
+    "permalink": "/blog/2022/06/16/dev-gopro-2"
+  }
+}

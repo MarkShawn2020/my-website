@@ -1,0 +1,36 @@
+{
+  "permalink": "/blog/2022/06/16/dev-gopro-2",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2022/06-16-dev-gopro-2.md",
+  "source": "@site/my-documents/blog/2022/06-16-dev-gopro-2.md",
+  "title": "编程 | GoPro 02: 玩转 OpenLab",
+  "description": "1. 方案 1：物理手段解决",
+  "date": "2022-06-16T00:00:00.000Z",
+  "formattedDate": "2022/06/16",
+  "tags": [
+    {
+      "label": "开发笔记",
+      "permalink": "/blog/tags/开发笔记"
+    },
+    {
+      "label": "GoPro",
+      "permalink": "/blog/tags/go-pro"
+    }
+  ],
+  "readingTime": 21.475,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "开发笔记",
+      "GoPro"
+    ]
+  },
+  "prevItem": {
+    "title": "编程 | 使用 pandas 研究高考志愿填报",
+    "permalink": "/blog/2022/07/02/dev-gaokao"
+  },
+  "nextItem": {
+    "title": "编程 | GoPro 01: 全天候自动 4K 延时摄影",
+    "permalink": "/blog/2022/06/11/dev-gopro-1"
+  }
+}

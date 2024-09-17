@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/Python/pandas-howto",
+  "id": "coding/Languages/Python/pandas-howto",
+  "title": "pandas howto",
+  "description": "how to use query",
+  "source": "@site/my-documents/docs/coding/Languages/Python/pandas-howto.md",
+  "sourceDirName": "coding/Languages/Python",
+  "slug": "/coding/Languages/Python/pandas-howto",
+  "permalink": "/docs/coding/Languages/Python/pandas-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/Python/pandas-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "jupyter howto",
+    "permalink": "/docs/coding/Languages/Python/jupyter-howto"
+  },
+  "next": {
+    "title": "python bugfix",
+    "permalink": "/docs/coding/Languages/Python/python-bugfix"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "series/algorithm/2020-09-07-匈牙利算法-择偶问题/index",
+  "id": "series/algorithm/2020-09-07-匈牙利算法-择偶问题/index",
+  "title": "王曼妮的择偶问题（二分流匈牙利算法）",
+  "description": "王曼妮红线模型之原理——匈牙利算法",
+  "source": "@site/my-documents/docs/series/algorithm/2020-09-07-匈牙利算法-择偶问题/index.md",
+  "sourceDirName": "series/algorithm/2020-09-07-匈牙利算法-择偶问题",
+  "slug": "/series/algorithm/2020-09-07-匈牙利算法-择偶问题/",
+  "permalink": "/docs/series/algorithm/2020-09-07-匈牙利算法-择偶问题/",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/series/algorithm/2020-09-07-匈牙利算法-择偶问题/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "题解 华为 OJ",
+    "permalink": "/docs/series/algorithm/2020-09-06-华为OJ困难级别全部题解"
+  },
+  "next": {
+    "title": "题解 Leetcode LCP.14 切分数组",
+    "permalink": "/docs/series/algorithm/2021-01-20-Leetcode LCP.14 切分数组 题解"
+  }
+}

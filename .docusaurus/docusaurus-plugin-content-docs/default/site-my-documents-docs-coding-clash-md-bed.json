@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/clash",
+  "id": "coding/clash",
+  "title": "clash",
+  "description": "2024最新Clash客户端下载中心 - Clash官网导航, https://clashxhub.com/clash-backup-download/",
+  "source": "@site/my-documents/docs/coding/clash.md",
+  "sourceDirName": "coding",
+  "slug": "/coding/clash",
+  "permalink": "/docs/coding/clash",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/clash.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "apple",
+    "permalink": "/docs/coding/apple"
+  },
+  "next": {
+    "title": "coding philosophy",
+    "permalink": "/docs/coding/coding-philosophy"
+  }
+}

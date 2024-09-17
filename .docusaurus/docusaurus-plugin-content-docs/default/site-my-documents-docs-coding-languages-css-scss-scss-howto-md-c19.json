@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/CSS/scss/scss-howto",
+  "id": "coding/Languages/CSS/scss/scss-howto",
+  "title": "scss howto",
+  "description": "mixin example",
+  "source": "@site/my-documents/docs/coding/Languages/CSS/scss/scss-howto.md",
+  "sourceDirName": "coding/Languages/CSS/scss",
+  "slug": "/coding/Languages/CSS/scss/scss-howto",
+  "permalink": "/docs/coding/Languages/CSS/scss/scss-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/CSS/scss/scss-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "flex",
+    "permalink": "/docs/coding/Languages/CSS/flex/"
+  },
+  "next": {
+    "title": "go howto",
+    "permalink": "/docs/coding/Languages/Go/go-howto"
+  }
+}

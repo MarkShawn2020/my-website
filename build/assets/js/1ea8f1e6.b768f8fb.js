@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[58459],{78473:e=>{e.exports=JSON.parse('{"label":"MBTI","permalink":"/blog/tags/mbti","allTagsPath":"/blog/tags","count":1}')}}]);

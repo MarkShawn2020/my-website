@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/测试不同风格的toc",
+  "id": "coding/测试不同风格的toc",
+  "title": "测试不同风格的toc",
+  "description": "以下是本文目录（plain）：",
+  "source": "@site/my-documents/docs/coding/测试不同风格的toc.md",
+  "sourceDirName": "coding",
+  "slug": "/coding/测试不同风格的toc",
+  "permalink": "/docs/coding/测试不同风格的toc",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/测试不同风格的toc.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "毁灭人生的打包记",
+    "permalink": "/docs/coding/毁灭人生的打包记"
+  },
+  "next": {
+    "title": "王逸成：剑桥大学申请经验",
+    "permalink": "/docs/文集/2020-06-12-王逸成"
+  }
+}

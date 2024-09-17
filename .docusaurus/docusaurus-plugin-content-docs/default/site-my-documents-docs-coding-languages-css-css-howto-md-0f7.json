@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/CSS/css-howto",
+  "id": "coding/Languages/CSS/css-howto",
+  "title": "css howto",
+  "description": "1. shrink flex item to the remaining space",
+  "source": "@site/my-documents/docs/coding/Languages/CSS/css-howto.md",
+  "sourceDirName": "coding/Languages/CSS",
+  "slug": "/coding/Languages/CSS/css-howto",
+  "permalink": "/docs/coding/Languages/CSS/css-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/CSS/css-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "cpp howto",
+    "permalink": "/docs/coding/Languages/CPP/cpp-howto"
+  },
+  "next": {
+    "title": "flex",
+    "permalink": "/docs/coding/Languages/CSS/flex/"
+  }
+}

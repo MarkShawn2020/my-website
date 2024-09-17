@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/VSCode/vscode-bugfix",
+  "id": "coding/Software/VSCode/vscode-bugfix",
+  "title": "vscode-bugfix",
+  "description": "[toc]",
+  "source": "@site/my-documents/docs/coding/Software/VSCode/vscode-bugfix.md",
+  "sourceDirName": "coding/Software/VSCode",
+  "slug": "/coding/Software/VSCode/vscode-bugfix",
+  "permalink": "/docs/coding/Software/VSCode/vscode-bugfix",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/VSCode/vscode-bugfix.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Tmux",
+    "permalink": "/docs/coding/Software/Tmux/"
+  },
+  "next": {
+    "title": "vscode extensions howto",
+    "permalink": "/docs/coding/Software/VSCode/vscode-extensions-howto"
+  }
+}

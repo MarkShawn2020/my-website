@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/TS/tsc-howto",
+  "id": "coding/Languages/TS/tsc-howto",
+  "title": "tsc-howto",
+  "description": "tsc recommended config",
+  "source": "@site/my-documents/docs/coding/Languages/TS/tsc-howto.md",
+  "sourceDirName": "coding/Languages/TS",
+  "slug": "/coding/Languages/TS/tsc-howto",
+  "permalink": "/docs/coding/Languages/TS/tsc-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/TS/tsc-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "ts howto",
+    "permalink": "/docs/coding/Languages/TS/ts-howto"
+  },
+  "next": {
+    "title": "tslint-bugfix",
+    "permalink": "/docs/coding/Languages/TS/tslint-bugfix"
+  }
+}

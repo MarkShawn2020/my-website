@@ -1,0 +1,38 @@
+{
+  "permalink": "/blog/VuePress-Journal",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2020/08-29-VuePress-Journal.md",
+  "source": "@site/my-documents/blog/2020/08-29-VuePress-Journal.md",
+  "title": "VuePress你好，VuePres再见",
+  "description": "VuePress01 - 运行原理研究",
+  "date": "2020-08-29T00:00:00.000Z",
+  "formattedDate": "2020/08/29",
+  "tags": [
+    {
+      "label": "Vuepress",
+      "permalink": "/blog/tags/vuepress"
+    }
+  ],
+  "readingTime": 16.67,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "VuePress你好，VuePres再见",
+    "slug": "VuePress-Journal",
+    "tags": [
+      "Vuepress"
+    ],
+    "category": "Vuepress",
+    "cover": "",
+    "position": 799,
+    "version": "0.1.0",
+    "fullScreen": false
+  },
+  "prevItem": {
+    "title": "谨以此文，纪念我在大学的这四年",
+    "permalink": "/blog/my_university"
+  },
+  "nextItem": {
+    "title": "vue开发笔记",
+    "permalink": "/blog/文集/vue开发笔记"
+  }
+}

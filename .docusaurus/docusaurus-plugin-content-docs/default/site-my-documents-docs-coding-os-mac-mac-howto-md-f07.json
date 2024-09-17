@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/Mac/mac-howto",
+  "id": "coding/OS/Mac/mac-howto",
+  "title": "mac-howto",
+  "description": "ipad air 5 64G 选购依据",
+  "source": "@site/my-documents/docs/coding/OS/Mac/mac-howto.md",
+  "sourceDirName": "coding/OS/Mac",
+  "slug": "/coding/OS/Mac/mac-howto",
+  "permalink": "/docs/coding/OS/Mac/mac-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/Mac/mac-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "mac bugfix",
+    "permalink": "/docs/coding/OS/Mac/mac-bugfix"
+  },
+  "next": {
+    "title": "how to migrate mac",
+    "permalink": "/docs/coding/OS/Mac/mac-migrate"
+  }
+}

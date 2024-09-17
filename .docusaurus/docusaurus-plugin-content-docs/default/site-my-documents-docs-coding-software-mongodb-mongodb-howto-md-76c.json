@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/mongodb/mongodb-howto",
+  "id": "coding/Software/mongodb/mongodb-howto",
+  "title": "mongodb-howto",
+  "description": "install mongodb in Ubuntu",
+  "source": "@site/my-documents/docs/coding/Software/mongodb/mongodb-howto.md",
+  "sourceDirName": "coding/Software/mongodb",
+  "slug": "/coding/Software/mongodb/mongodb-howto",
+  "permalink": "/docs/coding/Software/mongodb/mongodb-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/mongodb/mongodb-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "mongodb-bugfix",
+    "permalink": "/docs/coding/Software/mongodb/mongodb-bugfix"
+  },
+  "next": {
+    "title": "nginx-howto",
+    "permalink": "/docs/coding/Software/nginx/nginx-howto"
+  }
+}

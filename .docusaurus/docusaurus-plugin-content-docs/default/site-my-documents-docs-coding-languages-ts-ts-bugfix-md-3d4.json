@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/TS/ts-bugfix",
+  "id": "coding/Languages/TS/ts-bugfix",
+  "title": "ts",
+  "description": "1. PASS Module '\"path\"' can only be default-imported using the 'esModuleInterop' flag",
+  "source": "@site/my-documents/docs/coding/Languages/TS/ts-bugfix.md",
+  "sourceDirName": "coding/Languages/TS",
+  "slug": "/coding/Languages/TS/ts-bugfix",
+  "permalink": "/docs/coding/Languages/TS/ts-bugfix",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/TS/ts-bugfix.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "python howto",
+    "permalink": "/docs/coding/Languages/Python/python-howto"
+  },
+  "next": {
+    "title": "ts howto",
+    "permalink": "/docs/coding/Languages/TS/ts-howto"
+  }
+}

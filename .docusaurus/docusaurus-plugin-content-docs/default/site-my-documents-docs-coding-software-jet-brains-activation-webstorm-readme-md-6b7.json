@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/JetBrains/activation/webstorm/readme",
+  "id": "coding/Software/JetBrains/activation/webstorm/readme",
+  "title": "webstorm",
+  "description": "source//www.ajihuo.com/webstorm/4188.html",
+  "source": "@site/my-documents/docs/coding/Software/JetBrains/activation/webstorm/readme.md",
+  "sourceDirName": "coding/Software/JetBrains/activation/webstorm",
+  "slug": "/coding/Software/JetBrains/activation/webstorm/",
+  "permalink": "/docs/coding/Software/JetBrains/activation/webstorm/",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/JetBrains/activation/webstorm/readme.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "jetbrains activation code",
+    "permalink": "/docs/coding/Software/JetBrains/activation/"
+  },
+  "next": {
+    "title": "20220807",
+    "permalink": "/docs/coding/Software/JetBrains/activation/webstorm/20220807/"
+  }
+}

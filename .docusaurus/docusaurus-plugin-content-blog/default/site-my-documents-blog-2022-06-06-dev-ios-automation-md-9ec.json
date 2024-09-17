@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/2022/06/06/dev-ios-automation",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2022/06-06-dev-ios-automation.md",
+  "source": "@site/my-documents/blog/2022/06-06-dev-ios-automation.md",
+  "title": "编程 | iOS 自动化实现王者荣耀一键换装",
+  "description": "1. 概要",
+  "date": "2022-06-06T00:00:00.000Z",
+  "formattedDate": "2022/06/06",
+  "tags": [
+    {
+      "label": "开发笔记",
+      "permalink": "/blog/tags/开发笔记"
+    },
+    {
+      "label": "自动化",
+      "permalink": "/blog/tags/自动化"
+    },
+    {
+      "label": "iOS",
+      "permalink": "/blog/tags/i-os"
+    },
+    {
+      "label": "王者荣耀",
+      "permalink": "/blog/tags/王者荣耀"
+    }
+  ],
+  "readingTime": 31.66,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "开发笔记",
+      "自动化",
+      "iOS",
+      "王者荣耀"
+    ]
+  },
+  "prevItem": {
+    "title": "编程 | GoPro 01: 全天候自动 4K 延时摄影",
+    "permalink": "/blog/2022/06/11/dev-gopro-1"
+  },
+  "nextItem": {
+    "title": "编程 | 逼哥的音乐元数据修复",
+    "permalink": "/blog/2022/05/23/dev-mp3-meta"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/Tmux/index",
+  "id": "coding/Software/Tmux/index",
+  "title": "Tmux",
+  "description": "config",
+  "source": "@site/my-documents/docs/coding/Software/Tmux/index.md",
+  "sourceDirName": "coding/Software/Tmux",
+  "slug": "/coding/Software/Tmux/",
+  "permalink": "/docs/coding/Software/Tmux/",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/Tmux/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "wechat todo",
+    "permalink": "/docs/coding/Software/Tencent/wechat-todo"
+  },
+  "next": {
+    "title": "vscode-bugfix",
+    "permalink": "/docs/coding/Software/VSCode/vscode-bugfix"
+  }
+}

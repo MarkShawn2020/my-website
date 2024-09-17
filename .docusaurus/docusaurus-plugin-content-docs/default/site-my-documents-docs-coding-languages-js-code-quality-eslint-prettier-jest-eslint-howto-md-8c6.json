@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/JS/CodeQuality_eslint_prettier_jest/eslint-howto",
+  "id": "coding/Languages/JS/CodeQuality_eslint_prettier_jest/eslint-howto",
+  "title": "eslint howto",
+  "description": "[toc]",
+  "source": "@site/my-documents/docs/coding/Languages/JS/CodeQuality_eslint_prettier_jest/eslint-howto.md",
+  "sourceDirName": "coding/Languages/JS/CodeQuality_eslint_prettier_jest",
+  "slug": "/coding/Languages/JS/CodeQuality_eslint_prettier_jest/eslint-howto",
+  "permalink": "/docs/coding/Languages/JS/CodeQuality_eslint_prettier_jest/eslint-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/CodeQuality_eslint_prettier_jest/eslint-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "html howto",
+    "permalink": "/docs/coding/Languages/HTML/html-howto"
+  },
+  "next": {
+    "title": "eslint prettier typescript",
+    "permalink": "/docs/coding/Languages/JS/CodeQuality_eslint_prettier_jest/eslint-prettier-typescript"
+  }
+}

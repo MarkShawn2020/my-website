@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/Mac/alfred-howto",
+  "id": "coding/OS/Mac/alfred-howto",
+  "title": "alfred howto",
+  "description": "1. create interactive shell",
+  "source": "@site/my-documents/docs/coding/OS/Mac/alfred-howto.md",
+  "sourceDirName": "coding/OS/Mac",
+  "slug": "/coding/OS/Mac/alfred-howto",
+  "permalink": "/docs/coding/OS/Mac/alfred-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/Mac/alfred-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "ubuntu init manual",
+    "permalink": "/docs/coding/OS/Linux/ubuntu-init-manual"
+  },
+  "next": {
+    "title": "ios 逆向",
+    "permalink": "/docs/coding/OS/Mac/ios-hack"
+  }
+}

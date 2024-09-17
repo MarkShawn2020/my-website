@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/Git/git-howto",
+  "id": "coding/Software/Git/git-howto",
+  "title": "git-howto",
+  "description": "- improve git pull speed",
+  "source": "@site/my-documents/docs/coding/Software/Git/git-howto.md",
+  "sourceDirName": "coding/Software/Git",
+  "slug": "/coding/Software/Git/git-howto",
+  "permalink": "/docs/coding/Software/Git/git-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/Git/git-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "git-bugfix",
+    "permalink": "/docs/coding/Software/Git/git-bugfix"
+  },
+  "next": {
+    "title": "chrome-bugfix",
+    "permalink": "/docs/coding/Software/Google/ChromeUsage/chrome-bugfix"
+  }
+}

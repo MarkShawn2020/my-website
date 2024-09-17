@@ -1,0 +1,26 @@
+{
+  "unversionedId": "series/algorithm/2020-09-03-剑指Offer第20题/index",
+  "id": "series/algorithm/2020-09-03-剑指Offer第20题/index",
+  "title": "题解 剑指 Offer 20. 表示数字的字符串（有限自动机）",
+  "description": "",
+  "source": "@site/my-documents/docs/series/algorithm/2020-09-03-剑指Offer第20题/index.md",
+  "sourceDirName": "series/algorithm/2020-09-03-剑指Offer第20题",
+  "slug": "/series/algorithm/2020-09-03-剑指Offer第20题/",
+  "permalink": "/docs/series/algorithm/2020-09-03-剑指Offer第20题/",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/series/algorithm/2020-09-03-剑指Offer第20题/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "MarkDown Emoji Referenc",
+    "permalink": "/docs/series/NC-PFA/references/md-emoji-refs"
+  },
+  "next": {
+    "title": "题解 华为 OJ",
+    "permalink": "/docs/series/algorithm/2020-09-06-华为OJ困难级别全部题解"
+  }
+}

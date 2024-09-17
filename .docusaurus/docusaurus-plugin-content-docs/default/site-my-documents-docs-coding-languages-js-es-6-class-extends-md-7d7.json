@@ -1,0 +1,28 @@
+{
+  "unversionedId": "coding/Languages/JS/es6/class-extends",
+  "id": "coding/Languages/JS/es6/class-extends",
+  "title": "Class 的继承",
+  "description": "简介",
+  "source": "@site/my-documents/docs/coding/Languages/JS/es6/class-extends.md",
+  "sourceDirName": "coding/Languages/JS/es6",
+  "slug": "/coding/Languages/JS/es6/class-extends",
+  "permalink": "/docs/coding/Languages/JS/es6/class-extends",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/es6/class-extends.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "position": 22
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "async 函数",
+    "permalink": "/docs/coding/Languages/JS/es6/async"
+  },
+  "next": {
+    "title": "Class 的基本语法",
+    "permalink": "/docs/coding/Languages/JS/es6/class"
+  }
+}

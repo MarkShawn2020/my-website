@@ -1,0 +1,26 @@
+{
+  "unversionedId": "series/NC-PFA/references/md-emoji-refs",
+  "id": "series/NC-PFA/references/md-emoji-refs",
+  "title": "MarkDown Emoji Referenc",
+  "description": "From: Complete list of github markdown emoji markup",
+  "source": "@site/my-documents/docs/series/NC-PFA/references/md-emoji-refs.md",
+  "sourceDirName": "series/NC-PFA/references",
+  "slug": "/series/NC-PFA/references/md-emoji-refs",
+  "permalink": "/docs/series/NC-PFA/references/md-emoji-refs",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/series/NC-PFA/references/md-emoji-refs.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "readme_1579446860",
+    "permalink": "/docs/series/NC-PFA/ch02_introduction-to-IDE/readme_1579446860"
+  },
+  "next": {
+    "title": "题解 剑指 Offer 20. 表示数字的字符串（有限自动机）",
+    "permalink": "/docs/series/algorithm/2020-09-03-剑指Offer第20题/"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/Mac/zsh-howto",
+  "id": "coding/OS/Mac/zsh-howto",
+  "title": "zsh-howto",
+  "description": "set zsh as the default terminal (need re-login)",
+  "source": "@site/my-documents/docs/coding/OS/Mac/zsh-howto.md",
+  "sourceDirName": "coding/OS/Mac",
+  "slug": "/coding/OS/Mac/zsh-howto",
+  "permalink": "/docs/coding/OS/Mac/zsh-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/Mac/zsh-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "mac what",
+    "permalink": "/docs/coding/OS/Mac/mac-what"
+  },
+  "next": {
+    "title": "windows-howto",
+    "permalink": "/docs/coding/OS/Windows/windows-howto"
+  }
+}

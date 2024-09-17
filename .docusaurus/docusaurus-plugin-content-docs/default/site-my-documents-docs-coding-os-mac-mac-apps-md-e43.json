@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/Mac/mac-apps",
+  "id": "coding/OS/Mac/mac-apps",
+  "title": "mac apps",
+  "description": "1. recommended apps",
+  "source": "@site/my-documents/docs/coding/OS/Mac/mac-apps.md",
+  "sourceDirName": "coding/OS/Mac",
+  "slug": "/coding/OS/Mac/mac-apps",
+  "permalink": "/docs/coding/OS/Mac/mac-apps",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/Mac/mac-apps.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "ios 逆向",
+    "permalink": "/docs/coding/OS/Mac/ios-hack"
+  },
+  "next": {
+    "title": "mac 自动化",
+    "permalink": "/docs/coding/OS/Mac/mac-automation"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/Mac/mac-bugfix",
+  "id": "coding/OS/Mac/mac-bugfix",
+  "title": "mac bugfix",
+  "description": "- FIXED: 每次启动clashX都会弹窗安装 Helper Tool",
+  "source": "@site/my-documents/docs/coding/OS/Mac/mac-bugfix.md",
+  "sourceDirName": "coding/OS/Mac",
+  "slug": "/coding/OS/Mac/mac-bugfix",
+  "permalink": "/docs/coding/OS/Mac/mac-bugfix",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/Mac/mac-bugfix.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "mac 自动化",
+    "permalink": "/docs/coding/OS/Mac/mac-automation"
+  },
+  "next": {
+    "title": "mac-howto",
+    "permalink": "/docs/coding/OS/Mac/mac-howto"
+  }
+}

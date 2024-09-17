@@ -1,0 +1,28 @@
+{
+  "unversionedId": "coding/Languages/JS/es6/module-loader",
+  "id": "coding/Languages/JS/es6/module-loader",
+  "title": "Module 的加载实现",
+  "description": "上一章介绍了模块的语法，本章介绍如何在浏览器和 Node.js 之中加载 ES6 模块，以及实际开发中经常遇到的一些问题（比如循环加载）。",
+  "source": "@site/my-documents/docs/coding/Languages/JS/es6/module-loader.md",
+  "sourceDirName": "coding/Languages/JS/es6",
+  "slug": "/coding/Languages/JS/es6/module-loader",
+  "permalink": "/docs/coding/Languages/JS/es6/module-loader",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/es6/module-loader.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "position": 24
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Mixin",
+    "permalink": "/docs/coding/Languages/JS/es6/mixin"
+  },
+  "next": {
+    "title": "Module 的语法",
+    "permalink": "/docs/coding/Languages/JS/es6/module"
+  }
+}

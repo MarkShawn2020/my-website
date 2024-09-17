@@ -1,0 +1,36 @@
+{
+  "permalink": "/blog/2022/05/22/evaluation-breo-dream6",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2022/05-22-evaluation-breo-dream6.md",
+  "source": "@site/my-documents/blog/2022/05-22-evaluation-breo-dream6.md",
+  "title": "评测 | Breo Dream6 按摩仪",
+  "description": "最近试用了三款按摩/睡眠仪，写一写使用体验。",
+  "date": "2022-05-22T00:00:00.000Z",
+  "formattedDate": "2022/05/22",
+  "tags": [
+    {
+      "label": "评测",
+      "permalink": "/blog/tags/评测"
+    },
+    {
+      "label": "养身",
+      "permalink": "/blog/tags/养身"
+    }
+  ],
+  "readingTime": 12.665,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "评测",
+      "养身"
+    ]
+  },
+  "prevItem": {
+    "title": "编程 | 逼哥的音乐元数据修复",
+    "permalink": "/blog/2022/05/23/dev-mp3-meta"
+  },
+  "nextItem": {
+    "title": "札记 | 须知，活好是很不容易的",
+    "permalink": "/blog/2022/05/15/prose-is-not-easy"
+  }
+}

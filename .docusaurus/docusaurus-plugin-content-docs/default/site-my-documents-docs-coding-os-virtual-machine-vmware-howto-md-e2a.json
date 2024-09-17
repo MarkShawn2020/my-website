@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/virtual-machine/vmware-howto",
+  "id": "coding/OS/virtual-machine/vmware-howto",
+  "title": "vmware howto",
+  "description": "installation",
+  "source": "@site/my-documents/docs/coding/OS/virtual-machine/vmware-howto.md",
+  "sourceDirName": "coding/OS/virtual-machine",
+  "slug": "/coding/OS/virtual-machine/vmware-howto",
+  "permalink": "/docs/coding/OS/virtual-machine/vmware-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/virtual-machine/vmware-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "virtualbox",
+    "permalink": "/docs/coding/OS/virtual-machine/virtualbox-howto"
+  },
+  "next": {
+    "title": "vmware",
+    "permalink": "/docs/coding/OS/virtual-machine/vmware-index"
+  }
+}

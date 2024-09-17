@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/Python/python-howto",
+  "id": "coding/Languages/Python/python-howto",
+  "title": "python howto",
+  "description": "module:log",
+  "source": "@site/my-documents/docs/coding/Languages/Python/python-howto.md",
+  "sourceDirName": "coding/Languages/Python",
+  "slug": "/coding/Languages/Python/python-howto",
+  "permalink": "/docs/coding/Languages/Python/python-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/Python/python-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "python-dev-notes",
+    "permalink": "/docs/coding/Languages/Python/python-dev-notes"
+  },
+  "next": {
+    "title": "ts",
+    "permalink": "/docs/coding/Languages/TS/ts-bugfix"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "permalink": "/blog/2022/03/27/prose-321-air-crash",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2022/03-27-prose-321-air-crash.md",
+  "source": "@site/my-documents/blog/2022/03-27-prose-321-air-crash.md",
+  "title": "札记 | 愿逝者安息生者坚强，你我迎风奔跑向阳而生",
+  "description": "三月二十一日，于某些人，某些家庭，是一个无法面对的日子。",
+  "date": "2022-03-27T00:00:00.000Z",
+  "formattedDate": "2022/03/27",
+  "tags": [
+    {
+      "label": "札记",
+      "permalink": "/blog/tags/札记"
+    },
+    {
+      "label": "养身",
+      "permalink": "/blog/tags/养身"
+    }
+  ],
+  "readingTime": 7.215,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "札记",
+      "养身"
+    ]
+  },
+  "prevItem": {
+    "title": "研究 | 基于 MBTI 的人生复盘与计划（上）",
+    "permalink": "/blog/2022/04/22/research-mbti/mark_mbti"
+  },
+  "nextItem": {
+    "title": "编程 | 北京租房系统设计、研究与经验 0.1.0",
+    "permalink": "/blog/2022/03/09/dev-douban-renting"
+  }
+}

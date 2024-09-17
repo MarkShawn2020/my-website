@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Poketto Dev Notes",
+  "id": "coding/Poketto Dev Notes",
+  "title": "Poketto Dev Notes",
+  "description": "- #flowgpt",
+  "source": "@site/my-documents/docs/coding/Poketto Dev Notes.md",
+  "sourceDirName": "coding",
+  "slug": "/coding/Poketto Dev Notes",
+  "permalink": "/docs/coding/Poketto Dev Notes",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Poketto Dev Notes.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "vmware",
+    "permalink": "/docs/coding/OS/virtual-machine/vmware-index"
+  },
+  "next": {
+    "title": "readme",
+    "permalink": "/docs/coding/Software/Adobe/PS/support-for-little-stars/"
+  }
+}

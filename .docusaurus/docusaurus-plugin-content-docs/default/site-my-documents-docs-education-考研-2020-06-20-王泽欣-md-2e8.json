@@ -1,0 +1,60 @@
+{
+  "unversionedId": "education/考研/2020-06-20-王泽欣",
+  "id": "education/考研/2020-06-20-王泽欣",
+  "title": "王泽欣：对外经贸大学金融专硕（383分）考研经验",
+  "description": "王泽欣：对外经贸大学金融专硕（383分）考研经验",
+  "source": "@site/my-documents/docs/education/考研/2020-06-20-王泽欣.md",
+  "sourceDirName": "education/考研",
+  "slug": "/文集/2020-06-20-王泽欣",
+  "permalink": "/docs/文集/2020-06-20-王泽欣",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/education/考研/2020-06-20-王泽欣.md",
+  "tags": [
+    {
+      "label": "考研",
+      "permalink": "/docs/tags/考研"
+    },
+    {
+      "label": "南审",
+      "permalink": "/docs/tags/南审"
+    },
+    {
+      "label": "对外经贸大学",
+      "permalink": "/docs/tags/对外经贸大学"
+    },
+    {
+      "label": "金融",
+      "permalink": "/docs/tags/金融"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "王泽欣：对外经贸大学金融专硕（383分）考研经验",
+    "date": "2020-06-20T00:00:00.000Z",
+    "tags": [
+      "考研",
+      "南审",
+      "对外经贸大学",
+      "金融"
+    ],
+    "slug": "/文集/2020-06-20-王泽欣",
+    "cover": "https://mark-vue-oss.oss-cn-hangzhou.aliyuncs.com/typora/20200814085012.png?x-oss-process=style/cover-compress",
+    "menuTitle": "2020-06-20-王泽欣",
+    "description": "王泽欣：对外经贸大学金融专硕（383分）考研经验",
+    "relativePath": "zh/文集/研究生升学案例/考研专辑/2020-06-20-王泽欣.md",
+    "category": "考研",
+    "version": "0.1.0",
+    "fullScreen": false
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "周瞰熹：对外经贸大学金融学硕（396分）考研经验",
+    "permalink": "/docs/文集/2020-06-19-周瞰熹"
+  },
+  "next": {
+    "title": "陈家慧：对外经贸大学金融专硕（373分）考研经验",
+    "permalink": "/docs/文集/2020-06-22-陈家慧"
+  }
+}

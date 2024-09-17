@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/virtual-machine/virtualbox-howto",
+  "id": "coding/OS/virtual-machine/virtualbox-howto",
+  "title": "virtualbox",
+  "description": "1. 盘符切换（盘已满）",
+  "source": "@site/my-documents/docs/coding/OS/virtual-machine/virtualbox-howto.md",
+  "sourceDirName": "coding/OS/virtual-machine",
+  "slug": "/coding/OS/virtual-machine/virtualbox-howto",
+  "permalink": "/docs/coding/OS/virtual-machine/virtualbox-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/virtual-machine/virtualbox-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "ubuntu 18.04.6 LTS 虚拟机指南",
+    "permalink": "/docs/coding/OS/virtual-machine/full-guide_ubuntu-in-vmware"
+  },
+  "next": {
+    "title": "vmware howto",
+    "permalink": "/docs/coding/OS/virtual-machine/vmware-howto"
+  }
+}

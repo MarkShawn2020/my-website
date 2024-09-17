@@ -1,0 +1,36 @@
+{
+  "permalink": "/blog/2022/01/01/prose-my-2021",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2022/01-01-prose-my-2021.md",
+  "source": "@site/my-documents/blog/2022/01-01-prose-my-2021.md",
+  "title": "札记 | 我的 2021：混沌与洞见",
+  "description": "在《马男波杰克（Bojack Horseman）》第六季中戴安想写一部有深度的、关于“创伤”的书，书名较长：《One Last Thing and Then I Swear to God I'll Shut Up About This Forever Arguments, Opinions, Reflections, Recollections》，某字幕组将其翻译为：《再说最后一件事，然后我保证再也不提这事：关于我们做出的选择、伤害的人、去过的地方的最后反思》但是她失败了。我显然也不行。但是……",
+  "date": "2022-01-01T00:00:00.000Z",
+  "formattedDate": "2022/01/01",
+  "tags": [
+    {
+      "label": "札记",
+      "permalink": "/blog/tags/札记"
+    },
+    {
+      "label": "年终总结",
+      "permalink": "/blog/tags/年终总结"
+    }
+  ],
+  "readingTime": 10.31,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "札记",
+      "年终总结"
+    ]
+  },
+  "prevItem": {
+    "title": "札记 | 是的，我入职了",
+    "permalink": "/blog/2022/01/20/prose-first-job"
+  },
+  "nextItem": {
+    "title": "编程 | 记与 Webpack 十二小时的奋战",
+    "permalink": "/blog/2021/12/24/dev-webpack"
+  }
+}

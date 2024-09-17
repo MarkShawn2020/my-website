@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/Linux/linux-monitor",
+  "id": "coding/OS/Linux/linux-monitor",
+  "title": "linux-monitor",
+  "description": "- overview",
+  "source": "@site/my-documents/docs/coding/OS/Linux/linux-monitor.md",
+  "sourceDirName": "coding/OS/Linux",
+  "slug": "/coding/OS/Linux/linux-monitor",
+  "permalink": "/docs/coding/OS/Linux/linux-monitor",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/Linux/linux-monitor.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "linux-howto",
+    "permalink": "/docs/coding/OS/Linux/linux-howto"
+  },
+  "next": {
+    "title": "linux terminator howto",
+    "permalink": "/docs/coding/OS/Linux/linux-terminator-howto"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/next-themes",
+  "id": "coding/next-themes",
+  "title": "next-themes",
+  "description": "data-theme & class",
+  "source": "@site/my-documents/docs/coding/next-themes.md",
+  "sourceDirName": "coding",
+  "slug": "/coding/next-themes",
+  "permalink": "/docs/coding/next-themes",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/next-themes.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "next-i18next",
+    "permalink": "/docs/coding/next-i18next"
+  },
+  "next": {
+    "title": "nextjs-best-practice",
+    "permalink": "/docs/coding/nextjs-best-practice"
+  }
+}

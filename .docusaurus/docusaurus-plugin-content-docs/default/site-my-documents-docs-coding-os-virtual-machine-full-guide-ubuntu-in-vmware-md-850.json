@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/virtual-machine/full-guide_ubuntu-in-vmware",
+  "id": "coding/OS/virtual-machine/full-guide_ubuntu-in-vmware",
+  "title": "ubuntu 18.04.6 LTS 虚拟机指南",
+  "description": "1. 配置网络",
+  "source": "@site/my-documents/docs/coding/OS/virtual-machine/full-guide_ubuntu-in-vmware.md",
+  "sourceDirName": "coding/OS/virtual-machine",
+  "slug": "/coding/OS/virtual-machine/full-guide_ubuntu-in-vmware",
+  "permalink": "/docs/coding/OS/virtual-machine/full-guide_ubuntu-in-vmware",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/virtual-machine/full-guide_ubuntu-in-vmware.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "ios",
+    "permalink": "/docs/coding/OS/iOS"
+  },
+  "next": {
+    "title": "virtualbox",
+    "permalink": "/docs/coding/OS/virtual-machine/virtualbox-howto"
+  }
+}

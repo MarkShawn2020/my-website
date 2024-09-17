@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2022/05/15/prose-is-not-easy",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2022/05-15-prose-is-not-easy.md",
+  "source": "@site/my-documents/blog/2022/05-15-prose-is-not-easy.md",
+  "title": "札记 | 须知，活好是很不容易的",
+  "description": "须知，活好是很不容易的。",
+  "date": "2022-05-15T00:00:00.000Z",
+  "formattedDate": "2022/05/15",
+  "tags": [
+    {
+      "label": "札记",
+      "permalink": "/blog/tags/札记"
+    }
+  ],
+  "readingTime": 8.51,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "札记"
+    ]
+  },
+  "prevItem": {
+    "title": "评测 | Breo Dream6 按摩仪",
+    "permalink": "/blog/2022/05/22/evaluation-breo-dream6"
+  },
+  "nextItem": {
+    "title": "编程 | 视频剪辑自动转写字幕",
+    "permalink": "/blog/2022/05/14/dev-voice2srt"
+  }
+}

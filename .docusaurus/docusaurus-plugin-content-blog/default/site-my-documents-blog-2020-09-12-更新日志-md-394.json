@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/release-notes",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2020/09-12-更新日志.md",
+  "source": "@site/my-documents/blog/2020/09-12-更新日志.md",
+  "title": "更新日志",
+  "description": "关于",
+  "date": "2020-09-12T00:00:00.000Z",
+  "formattedDate": "2020/09/12",
+  "tags": [],
+  "readingTime": 8.475,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "layout": "NcVersionHistory",
+    "title": "更新日志",
+    "menuTitle": "更新日志",
+    "description": "关于",
+    "relativePath": "zh/关于/更新日志.md",
+    "slug": "/release-notes",
+    "category": "网站开发",
+    "cover": "",
+    "position": 2,
+    "version": "0.1.0",
+    "fullScreen": false
+  },
+  "prevItem": {
+    "title": "待办事项",
+    "permalink": "/blog/todo-old"
+  },
+  "nextItem": {
+    "title": "留言墙",
+    "permalink": "/blog/guestbook"
+  }
+}

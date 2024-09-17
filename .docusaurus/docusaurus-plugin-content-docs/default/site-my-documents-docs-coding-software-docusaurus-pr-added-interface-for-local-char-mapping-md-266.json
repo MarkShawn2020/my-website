@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/Docusaurus/PR-added-interface-for-local-char-mapping",
+  "id": "coding/Software/Docusaurus/PR-added-interface-for-local-char-mapping",
+  "title": "feat(theme-common): added interface for locale char mapping",
+  "description": "<!--",
+  "source": "@site/my-documents/docs/coding/Software/Docusaurus/PR-added-interface-for-local-char-mapping.md",
+  "sourceDirName": "coding/Software/Docusaurus",
+  "slug": "/coding/Software/Docusaurus/PR-added-interface-for-local-char-mapping",
+  "permalink": "/docs/coding/Software/Docusaurus/PR-added-interface-for-local-char-mapping",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/Docusaurus/PR-added-interface-for-local-char-mapping.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "enhance: added ESLint ruler for CSS import",
+    "permalink": "/docs/coding/Software/Docusaurus/PR-ESLint-added-CSS-imports"
+  },
+  "next": {
+    "title": "docusaurus-track",
+    "permalink": "/docs/coding/Software/Docusaurus/docusaurus-track"
+  }
+}

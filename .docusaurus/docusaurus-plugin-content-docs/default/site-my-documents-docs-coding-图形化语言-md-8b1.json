@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/图形化语言",
+  "id": "coding/图形化语言",
+  "title": "图形化语言",
+  "description": "image.png",
+  "source": "@site/my-documents/docs/coding/图形化语言.md",
+  "sourceDirName": "coding",
+  "slug": "/coding/图形化语言",
+  "permalink": "/docs/coding/图形化语言",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/图形化语言.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "websocket",
+    "permalink": "/docs/coding/websocket"
+  },
+  "next": {
+    "title": "微信迁移",
+    "permalink": "/docs/coding/微信迁移"
+  }
+}

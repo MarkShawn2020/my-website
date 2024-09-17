@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/python",
+  "id": "coding/python",
+  "title": "install python 3.11",
+  "description": "specific version | specific python version",
+  "source": "@site/my-documents/docs/coding/python.md",
+  "sourceDirName": "coding",
+  "slug": "/coding/python",
+  "permalink": "/docs/coding/python",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/python.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "poetry",
+    "permalink": "/docs/coding/poetry"
+  },
+  "next": {
+    "title": "vim",
+    "permalink": "/docs/coding/vim"
+  }
+}

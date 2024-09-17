@@ -1,0 +1,26 @@
+{
+  "unversionedId": "series/NC-PFA/ch02_introduction-to-IDE/readme",
+  "id": "series/NC-PFA/ch02_introduction-to-IDE/readme",
+  "title": "H02 - The Guidance to Install and Configure IDEs",
+  "description": "[toc]",
+  "source": "@site/my-documents/docs/series/NC-PFA/ch02_introduction-to-IDE/readme.md",
+  "sourceDirName": "series/NC-PFA/ch02_introduction-to-IDE",
+  "slug": "/series/NC-PFA/ch02_introduction-to-IDE/",
+  "permalink": "/docs/series/NC-PFA/ch02_introduction-to-IDE/",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/series/NC-PFA/ch02_introduction-to-IDE/readme.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "CH01_The-Very-Intro-to-Python",
+    "permalink": "/docs/series/NC-PFA/ch01_introduction-to-python/CH01_The-Very-Intro-to-Python"
+  },
+  "next": {
+    "title": "readme_1579446860",
+    "permalink": "/docs/series/NC-PFA/ch02_introduction-to-IDE/readme_1579446860"
+  }
+}

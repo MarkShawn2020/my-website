@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/dual-boot-systems",
+  "id": "coding/OS/dual-boot-systems",
+  "title": "mac + ubuntu 双系统",
+  "description": "refs",
+  "source": "@site/my-documents/docs/coding/OS/dual-boot-systems.md",
+  "sourceDirName": "coding/OS",
+  "slug": "/coding/OS/dual-boot-systems",
+  "permalink": "/docs/coding/OS/dual-boot-systems",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/dual-boot-systems.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "cross-platform howto",
+    "permalink": "/docs/coding/OS/cross-platform-howto"
+  },
+  "next": {
+    "title": "ios",
+    "permalink": "/docs/coding/OS/iOS"
+  }
+}

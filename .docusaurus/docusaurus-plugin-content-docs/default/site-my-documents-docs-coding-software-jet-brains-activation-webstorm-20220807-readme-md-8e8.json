@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/JetBrains/activation/webstorm/20220807/readme",
+  "id": "coding/Software/JetBrains/activation/webstorm/20220807/readme",
+  "title": "20220807",
+  "description": "code: 180729",
+  "source": "@site/my-documents/docs/coding/Software/JetBrains/activation/webstorm/20220807/readme.md",
+  "sourceDirName": "coding/Software/JetBrains/activation/webstorm/20220807",
+  "slug": "/coding/Software/JetBrains/activation/webstorm/20220807/",
+  "permalink": "/docs/coding/Software/JetBrains/activation/webstorm/20220807/",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/JetBrains/activation/webstorm/20220807/readme.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "webstorm",
+    "permalink": "/docs/coding/Software/JetBrains/activation/webstorm/"
+  },
+  "next": {
+    "title": "20220809",
+    "permalink": "/docs/coding/Software/JetBrains/activation/webstorm/20220809/"
+  }
+}

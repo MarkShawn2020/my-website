@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/FCPX/my318-2021/readme",
+  "id": "coding/Software/FCPX/my318-2021/readme",
+  "title": "readme",
+  "description": "overview",
+  "source": "@site/my-documents/docs/coding/Software/FCPX/my318-2021/readme.md",
+  "sourceDirName": "coding/Software/FCPX/my318-2021",
+  "slug": "/coding/Software/FCPX/my318-2021/",
+  "permalink": "/docs/coding/Software/FCPX/my318-2021/",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/FCPX/my318-2021/readme.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "docusaurus-track",
+    "permalink": "/docs/coding/Software/Docusaurus/docusaurus-track"
+  },
+  "next": {
+    "title": "feishu-bugfix",
+    "permalink": "/docs/coding/Software/FeiShu/feishu-bugfix"
+  }
+}

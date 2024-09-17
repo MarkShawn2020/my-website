@@ -1,0 +1,3 @@
+[submodule "my-documents"]
+	path = my-documents
+	url = git@github.com:markshawn2020/my-documents.git

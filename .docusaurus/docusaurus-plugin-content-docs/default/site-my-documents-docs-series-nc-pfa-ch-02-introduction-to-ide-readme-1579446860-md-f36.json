@@ -1,0 +1,26 @@
+{
+  "unversionedId": "series/NC-PFA/ch02_introduction-to-IDE/readme_1579446860",
+  "id": "series/NC-PFA/ch02_introduction-to-IDE/readme_1579446860",
+  "title": "readme_1579446860",
+  "description": "H02 - The Guidance to Install and Configure IDEs",
+  "source": "@site/my-documents/docs/series/NC-PFA/ch02_introduction-to-IDE/readme_1579446860.md",
+  "sourceDirName": "series/NC-PFA/ch02_introduction-to-IDE",
+  "slug": "/series/NC-PFA/ch02_introduction-to-IDE/readme_1579446860",
+  "permalink": "/docs/series/NC-PFA/ch02_introduction-to-IDE/readme_1579446860",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/series/NC-PFA/ch02_introduction-to-IDE/readme_1579446860.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "H02 - The Guidance to Install and Configure IDEs",
+    "permalink": "/docs/series/NC-PFA/ch02_introduction-to-IDE/"
+  },
+  "next": {
+    "title": "MarkDown Emoji Referenc",
+    "permalink": "/docs/series/NC-PFA/references/md-emoji-refs"
+  }
+}

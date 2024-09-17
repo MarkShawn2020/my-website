@@ -1,0 +1,28 @@
+{
+  "unversionedId": "coding/Languages/JS/es6/class",
+  "id": "coding/Languages/JS/es6/class",
+  "title": "Class 的基本语法",
+  "description": "简介",
+  "source": "@site/my-documents/docs/coding/Languages/JS/es6/class.md",
+  "sourceDirName": "coding/Languages/JS/es6",
+  "slug": "/coding/Languages/JS/es6/class",
+  "permalink": "/docs/coding/Languages/JS/es6/class",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/es6/class.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "position": 21
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Class 的继承",
+    "permalink": "/docs/coding/Languages/JS/es6/class-extends"
+  },
+  "next": {
+    "title": "装饰器",
+    "permalink": "/docs/coding/Languages/JS/es6/decorator"
+  }
+}

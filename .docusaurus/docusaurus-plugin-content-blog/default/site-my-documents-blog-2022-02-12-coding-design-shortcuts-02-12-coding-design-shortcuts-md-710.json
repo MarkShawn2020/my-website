@@ -1,0 +1,29 @@
+{
+  "permalink": "/blog/2022/02/12/coding-design-shortcuts/02-12-coding-design-shortcuts",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2022/02-12-coding-design-shortcuts/02-12-coding-design-shortcuts.md",
+  "source": "@site/my-documents/blog/2022/02-12-coding-design-shortcuts/02-12-coding-design-shortcuts.md",
+  "title": "编程设计艺术思考（持续更新）",
+  "description": "- 快捷键设计",
+  "date": "2022-02-12T00:00:00.000Z",
+  "formattedDate": "2022/02/12",
+  "tags": [],
+  "readingTime": 15.195,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "MarkShawn2020"
+    }
+  ],
+  "frontMatter": {
+    "author": "MarkShawn2020",
+    "created": "2022-02-12T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "推广 | 贝壳新业务 VR 全职开发招募",
+    "permalink": "/blog/2022/02/21/ad-beike-hiring"
+  },
+  "nextItem": {
+    "title": "札记 | 2022，活着",
+    "permalink": "/blog/2022/02/03/prose-living"
+  }
+}

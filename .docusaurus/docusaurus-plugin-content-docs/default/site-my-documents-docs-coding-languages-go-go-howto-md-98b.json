@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/Go/go-howto",
+  "id": "coding/Languages/Go/go-howto",
+  "title": "go howto",
+  "description": "download and install",
+  "source": "@site/my-documents/docs/coding/Languages/Go/go-howto.md",
+  "sourceDirName": "coding/Languages/Go",
+  "slug": "/coding/Languages/Go/go-howto",
+  "permalink": "/docs/coding/Languages/Go/go-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/Go/go-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "scss howto",
+    "permalink": "/docs/coding/Languages/CSS/scss/scss-howto"
+  },
+  "next": {
+    "title": "html howto",
+    "permalink": "/docs/coding/Languages/HTML/html-howto"
+  }
+}

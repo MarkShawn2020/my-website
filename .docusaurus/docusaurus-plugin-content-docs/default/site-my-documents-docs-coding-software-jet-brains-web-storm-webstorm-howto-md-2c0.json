@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/JetBrains/WebStorm/webstorm-howto",
+  "id": "coding/Software/JetBrains/WebStorm/webstorm-howto",
+  "title": "webstorm howto",
+  "description": "[TOC]",
+  "source": "@site/my-documents/docs/coding/Software/JetBrains/WebStorm/webstorm-howto.md",
+  "sourceDirName": "coding/Software/JetBrains/WebStorm",
+  "slug": "/coding/Software/JetBrains/WebStorm/webstorm-howto",
+  "permalink": "/docs/coding/Software/JetBrains/WebStorm/webstorm-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/JetBrains/WebStorm/webstorm-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "webstorm_bugfix",
+    "permalink": "/docs/coding/Software/JetBrains/WebStorm/webstorm-bugfix"
+  },
+  "next": {
+    "title": "jetbrains activation code",
+    "permalink": "/docs/coding/Software/JetBrains/activation/"
+  }
+}

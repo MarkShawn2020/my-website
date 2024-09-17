@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/SLAM/opencv-object-detection",
+  "id": "coding/SLAM/opencv-object-detection",
+  "title": "learning opencv object detection",
+  "description": "intro",
+  "source": "@site/my-documents/docs/coding/SLAM/opencv-object-detection.md",
+  "sourceDirName": "coding/SLAM",
+  "slug": "/coding/SLAM/opencv-object-detection",
+  "permalink": "/docs/coding/SLAM/opencv-object-detection",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/SLAM/opencv-object-detection.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "A01: recognize lights",
+    "permalink": "/docs/coding/SLAM/A01-recognizeLights"
+  },
+  "next": {
+    "title": "slam-research",
+    "permalink": "/docs/coding/SLAM/slam-research"
+  }
+}

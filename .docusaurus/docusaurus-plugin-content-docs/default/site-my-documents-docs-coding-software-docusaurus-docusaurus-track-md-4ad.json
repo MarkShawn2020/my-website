@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/Docusaurus/docusaurus-track",
+  "id": "coding/Software/Docusaurus/docusaurus-track",
+  "title": "docusaurus-track",
+  "description": "Plugin Development",
+  "source": "@site/my-documents/docs/coding/Software/Docusaurus/docusaurus-track.md",
+  "sourceDirName": "coding/Software/Docusaurus",
+  "slug": "/coding/Software/Docusaurus/docusaurus-track",
+  "permalink": "/docs/coding/Software/Docusaurus/docusaurus-track",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/Docusaurus/docusaurus-track.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "feat(theme-common): added interface for locale char mapping",
+    "permalink": "/docs/coding/Software/Docusaurus/PR-added-interface-for-local-char-mapping"
+  },
+  "next": {
+    "title": "readme",
+    "permalink": "/docs/coding/Software/FCPX/my318-2021/"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "series/algorithm/2021-02-13-快速幂、扩欧算法/index",
+  "id": "series/algorithm/2021-02-13-快速幂、扩欧算法/index",
+  "title": "题解 Acwing 211. 计算系数问题（快速幂、扩欧算法）",
+  "description": "",
+  "source": "@site/my-documents/docs/series/algorithm/2021-02-13-快速幂、扩欧算法/index.md",
+  "sourceDirName": "series/algorithm/2021-02-13-快速幂、扩欧算法",
+  "slug": "/series/algorithm/2021-02-13-快速幂、扩欧算法/",
+  "permalink": "/docs/series/algorithm/2021-02-13-快速幂、扩欧算法/",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/series/algorithm/2021-02-13-快速幂、扩欧算法/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "题解 Acwing 1262 鱼塘钓鱼问题（贪心->动态规划->优先队列）",
+    "permalink": "/docs/series/algorithm/2021-02-11-详解鱼塘钓鱼/"
+  },
+  "next": {
+    "title": "题解 Acwing 3195. 有趣的数（枚举法）",
+    "permalink": "/docs/series/algorithm/2021-02-17-Acwing 3195. 有趣的数/"
+  }
+}

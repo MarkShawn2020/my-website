@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/JS/Electron/electron-howto",
+  "id": "coding/Languages/JS/Electron/electron-howto",
+  "title": "electron howto",
+  "description": "1. electron best practice",
+  "source": "@site/my-documents/docs/coding/Languages/JS/Electron/electron-howto.md",
+  "sourceDirName": "coding/Languages/JS/Electron",
+  "slug": "/coding/Languages/JS/Electron/electron-howto",
+  "permalink": "/docs/coding/Languages/JS/Electron/electron-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/Electron/electron-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "electron-bugfix",
+    "permalink": "/docs/coding/Languages/JS/Electron/electron-bugfix"
+  },
+  "next": {
+    "title": "electron prisma sqlite 2",
+    "permalink": "/docs/coding/Languages/JS/Electron/electron-prisma-sqlite-2"
+  }
+}

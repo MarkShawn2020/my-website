@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/JS/Vue/vue-howto",
+  "id": "coding/Languages/JS/Vue/vue-howto",
+  "title": "Vue howto",
+  "description": "FIXME: vue config proxy",
+  "source": "@site/my-documents/docs/coding/Languages/JS/Vue/vue-howto.md",
+  "sourceDirName": "coding/Languages/JS/Vue",
+  "slug": "/coding/Languages/JS/Vue/vue-howto",
+  "permalink": "/docs/coding/Languages/JS/Vue/vue-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/Vue/vue-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "react-whyso",
+    "permalink": "/docs/coding/Languages/JS/React/react-whyso"
+  },
+  "next": {
+    "title": "database",
+    "permalink": "/docs/coding/Languages/JS/database"
+  }
+}

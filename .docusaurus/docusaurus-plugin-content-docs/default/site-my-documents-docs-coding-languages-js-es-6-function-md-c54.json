@@ -1,0 +1,28 @@
+{
+  "unversionedId": "coding/Languages/JS/es6/function",
+  "id": "coding/Languages/JS/es6/function",
+  "title": "函数的扩展",
+  "description": "函数参数的默认值",
+  "source": "@site/my-documents/docs/coding/Languages/JS/es6/function.md",
+  "sourceDirName": "coding/Languages/JS/es6",
+  "slug": "/coding/Languages/JS/es6/function",
+  "permalink": "/docs/coding/Languages/JS/es6/function",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/es6/function.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "position": 8
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "函数式编程",
+    "permalink": "/docs/coding/Languages/JS/es6/fp"
+  },
+  "next": {
+    "title": "Generator 函数的异步应用",
+    "permalink": "/docs/coding/Languages/JS/es6/generator-async"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/2021/12/24/dev-webpack",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2021/12-24-dev-webpack.md",
+  "source": "@site/my-documents/blog/2021/12-24-dev-webpack.md",
+  "title": "编程 | 记与 Webpack 十二小时的奋战",
+  "description": "2021 年 12 月 24 日",
+  "date": "2021-12-24T00:00:00.000Z",
+  "formattedDate": "2021/12/24",
+  "tags": [
+    {
+      "label": "开发笔记",
+      "permalink": "/blog/tags/开发笔记"
+    },
+    {
+      "label": "Webpack",
+      "permalink": "/blog/tags/webpack"
+    },
+    {
+      "label": "前端",
+      "permalink": "/blog/tags/前端"
+    }
+  ],
+  "readingTime": 12.48,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "开发笔记",
+      "Webpack",
+      "前端"
+    ]
+  },
+  "prevItem": {
+    "title": "札记 | 我的 2021：混沌与洞见",
+    "permalink": "/blog/2022/01/01/prose-my-2021"
+  },
+  "nextItem": {
+    "title": "一道“全军覆灭”的数学题",
+    "permalink": "/blog/2021/12/04/一道“全军覆灭”的数学题"
+  }
+}

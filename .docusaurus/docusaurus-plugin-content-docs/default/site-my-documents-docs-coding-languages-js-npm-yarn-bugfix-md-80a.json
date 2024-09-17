@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/JS/npm_yarn-bugfix",
+  "id": "coding/Languages/JS/npm_yarn-bugfix",
+  "title": "npm/yarn bugfix",
+  "description": "FIXME: npm i version +1 problem",
+  "source": "@site/my-documents/docs/coding/Languages/JS/npm_yarn-bugfix.md",
+  "sourceDirName": "coding/Languages/JS",
+  "slug": "/coding/Languages/JS/npm_yarn-bugfix",
+  "permalink": "/docs/coding/Languages/JS/npm_yarn-bugfix",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/npm_yarn-bugfix.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "js-howto",
+    "permalink": "/docs/coding/Languages/JS/js-howto"
+  },
+  "next": {
+    "title": "npm_yarn-howto",
+    "permalink": "/docs/coding/Languages/JS/npm_yarn-howto"
+  }
+}

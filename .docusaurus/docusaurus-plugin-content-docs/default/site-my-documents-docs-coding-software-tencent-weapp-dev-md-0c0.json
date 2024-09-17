@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/Tencent/weapp-dev",
+  "id": "coding/Software/Tencent/weapp-dev",
+  "title": "微信小程序开发",
+  "description": "UI 框架",
+  "source": "@site/my-documents/docs/coding/Software/Tencent/weapp-dev.md",
+  "sourceDirName": "coding/Software/Tencent",
+  "slug": "/coding/Software/Tencent/weapp-dev",
+  "permalink": "/docs/coding/Software/Tencent/weapp-dev",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/Tencent/weapp-dev.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "miniprogramme-howto",
+    "permalink": "/docs/coding/Software/MiniProgramme/MiniProgramme-howto"
+  },
+  "next": {
+    "title": "wechat todo",
+    "permalink": "/docs/coding/Software/Tencent/wechat-todo"
+  }
+}

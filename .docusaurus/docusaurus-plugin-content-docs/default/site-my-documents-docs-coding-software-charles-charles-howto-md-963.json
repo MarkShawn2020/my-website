@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/Charles/charles-howto",
+  "id": "coding/Software/Charles/charles-howto",
+  "title": "charles howto",
+  "description": "config",
+  "source": "@site/my-documents/docs/coding/Software/Charles/charles-howto.md",
+  "sourceDirName": "coding/Software/Charles",
+  "slug": "/coding/Software/Charles/charles-howto",
+  "permalink": "/docs/coding/Software/Charles/charles-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/Charles/charles-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "readme",
+    "permalink": "/docs/coding/Software/Adobe/PS/support-for-little-stars/"
+  },
+  "next": {
+    "title": "Mysql howto",
+    "permalink": "/docs/coding/Software/Database/Mysql/Mysql-howto"
+  }
+}

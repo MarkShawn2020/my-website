@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/JetBrains/WebStorm/webstorm-bugfix",
+  "id": "coding/Software/JetBrains/WebStorm/webstorm-bugfix",
+  "title": "webstorm_bugfix",
+  "description": "FIXED cannot find name definePageConfig or defineAppConfig",
+  "source": "@site/my-documents/docs/coding/Software/JetBrains/WebStorm/webstorm-bugfix.md",
+  "sourceDirName": "coding/Software/JetBrains/WebStorm",
+  "slug": "/coding/Software/JetBrains/WebStorm/webstorm-bugfix",
+  "permalink": "/docs/coding/Software/JetBrains/WebStorm/webstorm-bugfix",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/JetBrains/WebStorm/webstorm-bugfix.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "pycharm-howto",
+    "permalink": "/docs/coding/Software/JetBrains/Pycharm/pycharm-howto"
+  },
+  "next": {
+    "title": "webstorm howto",
+    "permalink": "/docs/coding/Software/JetBrains/WebStorm/webstorm-howto"
+  }
+}

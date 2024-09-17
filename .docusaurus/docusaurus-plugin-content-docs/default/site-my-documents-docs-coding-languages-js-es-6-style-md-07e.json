@@ -1,0 +1,28 @@
+{
+  "unversionedId": "coding/Languages/JS/es6/style",
+  "id": "coding/Languages/JS/es6/style",
+  "title": "编程风格",
+  "description": "本章探讨如何将 ES6 的新语法，运用到编码实践之中，与传统的 JavaScript 语法结合在一起，写出合理的、易于阅读和维护的代码。",
+  "source": "@site/my-documents/docs/coding/Languages/JS/es6/style.md",
+  "sourceDirName": "coding/Languages/JS/es6",
+  "slug": "/coding/Languages/JS/es6/style",
+  "permalink": "/docs/coding/Languages/JS/es6/style",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/es6/style.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "position": 25
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "字符串的扩展",
+    "permalink": "/docs/coding/Languages/JS/es6/string"
+  },
+  "next": {
+    "title": "Symbol",
+    "permalink": "/docs/coding/Languages/JS/es6/symbol"
+  }
+}

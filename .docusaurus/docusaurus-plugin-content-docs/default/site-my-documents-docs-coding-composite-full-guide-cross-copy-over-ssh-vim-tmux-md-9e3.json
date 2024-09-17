@@ -1,0 +1,52 @@
+{
+  "unversionedId": "coding/composite/full-guide_cross-copy-over-ssh-vim-tmux",
+  "id": "coding/composite/full-guide_cross-copy-over-ssh-vim-tmux",
+  "title": "ssh 跨系统共享 vims 剪切板的最佳解决方案",
+  "description": "本篇文章详细地记录整理了如何跨系统共享VIM剪切板的问题，具体地说来，就是如何在 ssh 的 vim （in or not in tmux）里快捷地复制到本地系统剪切板，主要用到了 X11 共享剪切板的特性，以及基于 socket 实现地传输。",
+  "source": "@site/my-documents/docs/coding/composite/full-guide_cross-copy-over-ssh-vim-tmux.md",
+  "sourceDirName": "coding/composite",
+  "slug": "/coding/composite/full-guide_cross-copy-over-ssh-vim-tmux",
+  "permalink": "/docs/coding/composite/full-guide_cross-copy-over-ssh-vim-tmux",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/composite/full-guide_cross-copy-over-ssh-vim-tmux.md",
+  "tags": [
+    {
+      "label": "ssh",
+      "permalink": "/docs/tags/ssh"
+    },
+    {
+      "label": "vim",
+      "permalink": "/docs/tags/vim"
+    },
+    {
+      "label": "tmux",
+      "permalink": "/docs/tags/tmux"
+    },
+    {
+      "label": "clipboard",
+      "permalink": "/docs/tags/clipboard"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "image": ".imgs/full-guide_cross-copy-over-ssh-vim-tmux-1662630169987-51fb98f3430a72c001eb7f3c151fb86fe315673a2334bb818da631aefdee2a58.png",
+    "tags": [
+      "ssh",
+      "vim",
+      "tmux",
+      "clipboard"
+    ],
+    "title": "ssh 跨系统共享 vims 剪切板的最佳解决方案"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "coding philosophy",
+    "permalink": "/docs/coding/coding-philosophy"
+  },
+  "next": {
+    "title": "css",
+    "permalink": "/docs/coding/css"
+  }
+}

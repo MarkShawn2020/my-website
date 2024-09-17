@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/Linux/linux-howto",
+  "id": "coding/OS/Linux/linux-howto",
+  "title": "linux-howto",
+  "description": "linux init manual",
+  "source": "@site/my-documents/docs/coding/OS/Linux/linux-howto.md",
+  "sourceDirName": "coding/OS/Linux",
+  "slug": "/coding/OS/Linux/linux-howto",
+  "permalink": "/docs/coding/OS/Linux/linux-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/Linux/linux-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "linux debug",
+    "permalink": "/docs/coding/OS/Linux/linux-debug"
+  },
+  "next": {
+    "title": "linux-monitor",
+    "permalink": "/docs/coding/OS/Linux/linux-monitor"
+  }
+}

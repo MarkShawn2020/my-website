@@ -1,0 +1,36 @@
+{
+  "permalink": "/blog/2022/05/14/dev-voice2srt",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2022/05-14-dev-voice2srt.md",
+  "source": "@site/my-documents/blog/2022/05-14-dev-voice2srt.md",
+  "title": "编程 | 视频剪辑自动转写字幕",
+  "description": "1. 语音转写市场概览",
+  "date": "2022-05-14T00:00:00.000Z",
+  "formattedDate": "2022/05/14",
+  "tags": [
+    {
+      "label": "开发笔记",
+      "permalink": "/blog/tags/开发笔记"
+    },
+    {
+      "label": "字幕",
+      "permalink": "/blog/tags/字幕"
+    }
+  ],
+  "readingTime": 15,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "开发笔记",
+      "字幕"
+    ]
+  },
+  "prevItem": {
+    "title": "札记 | 须知，活好是很不容易的",
+    "permalink": "/blog/2022/05/15/prose-is-not-easy"
+  },
+  "nextItem": {
+    "title": "研究 | 基于 MBTI 的人生复盘与计划（上）",
+    "permalink": "/blog/2022/04/22/research-mbti/mark_mbti"
+  }
+}

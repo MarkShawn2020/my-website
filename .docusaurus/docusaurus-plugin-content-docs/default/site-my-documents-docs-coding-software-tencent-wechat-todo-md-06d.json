@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/Tencent/wechat-todo",
+  "id": "coding/Software/Tencent/wechat-todo",
+  "title": "wechat todo",
+  "description": "TODO: 基于微信群的社交系统（适用于相亲、运营等）",
+  "source": "@site/my-documents/docs/coding/Software/Tencent/wechat-todo.md",
+  "sourceDirName": "coding/Software/Tencent",
+  "slug": "/coding/Software/Tencent/wechat-todo",
+  "permalink": "/docs/coding/Software/Tencent/wechat-todo",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/Tencent/wechat-todo.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "微信小程序开发",
+    "permalink": "/docs/coding/Software/Tencent/weapp-dev"
+  },
+  "next": {
+    "title": "Tmux",
+    "permalink": "/docs/coding/Software/Tmux/"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/JS/js-bugfix",
+  "id": "coding/Languages/JS/js-bugfix",
+  "title": "js-bugfix",
+  "description": "1. prettier",
+  "source": "@site/my-documents/docs/coding/Languages/JS/js-bugfix.md",
+  "sourceDirName": "coding/Languages/JS",
+  "slug": "/coding/Languages/JS/js-bugfix",
+  "permalink": "/docs/coding/Languages/JS/js-bugfix",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/js-bugfix.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Symbol",
+    "permalink": "/docs/coding/Languages/JS/es6/symbol"
+  },
+  "next": {
+    "title": "js discuss",
+    "permalink": "/docs/coding/Languages/JS/js-discuss"
+  }
+}

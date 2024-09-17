@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/nextjs",
+  "id": "coding/nextjs",
+  "title": "nextjs",
+  "description": "environment variable",
+  "source": "@site/my-documents/docs/coding/nextjs.md",
+  "sourceDirName": "coding",
+  "slug": "/coding/nextjs",
+  "permalink": "/docs/coding/nextjs",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/nextjs.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "nextjs-best-practice",
+    "permalink": "/docs/coding/nextjs-best-practice"
+  },
+  "next": {
+    "title": "poetry",
+    "permalink": "/docs/coding/poetry"
+  }
+}

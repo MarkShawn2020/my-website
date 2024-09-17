@@ -1,0 +1,22 @@
+{
+  "permalink": "/blog/2020/09/10/JS、ES、TS、node、Vue、React修炼",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2020/09-10-JS、ES、TS、node、Vue、React修炼.md",
+  "source": "@site/my-documents/blog/2020/09-10-JS、ES、TS、node、Vue、React修炼.md",
+  "title": "JS、ES、TS、node、Vue、React 修炼",
+  "description": "node 运行 js、es、ts 脚本",
+  "date": "2020-09-10T00:00:00.000Z",
+  "formattedDate": "2020/09/10",
+  "tags": [],
+  "readingTime": 12.14,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {},
+  "prevItem": {
+    "title": "经验与发现",
+    "permalink": "/blog/2020/09/12/经验与发现"
+  },
+  "nextItem": {
+    "title": "开发常用命令行",
+    "permalink": "/blog/文集/开发常用命令行"
+  }
+}

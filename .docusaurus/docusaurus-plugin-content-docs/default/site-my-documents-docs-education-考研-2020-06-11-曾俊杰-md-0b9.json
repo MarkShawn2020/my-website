@@ -1,0 +1,60 @@
+{
+  "unversionedId": "education/考研/2020-06-11-曾俊杰",
+  "id": "education/考研/2020-06-11-曾俊杰",
+  "title": "曾俊杰：北京大学政治经济学考研经验",
+  "description": "曾俊杰：北京大学政治经济学考研经验",
+  "source": "@site/my-documents/docs/education/考研/2020-06-11-曾俊杰.md",
+  "sourceDirName": "education/考研",
+  "slug": "/文集/2020-06-11-曾俊杰",
+  "permalink": "/docs/文集/2020-06-11-曾俊杰",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/education/考研/2020-06-11-曾俊杰.md",
+  "tags": [
+    {
+      "label": "考研",
+      "permalink": "/docs/tags/考研"
+    },
+    {
+      "label": "南审",
+      "permalink": "/docs/tags/南审"
+    },
+    {
+      "label": "北京大学",
+      "permalink": "/docs/tags/北京大学"
+    },
+    {
+      "label": "经济学",
+      "permalink": "/docs/tags/经济学"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "曾俊杰：北京大学政治经济学考研经验",
+    "date": "2020-06-11T00:00:00.000Z",
+    "tags": [
+      "考研",
+      "南审",
+      "北京大学",
+      "经济学"
+    ],
+    "slug": "/文集/2020-06-11-曾俊杰",
+    "cover": "https://mark-vue-oss.oss-cn-hangzhou.aliyuncs.com/typora/20200814083525.png?x-oss-process=style/cover-compress",
+    "menuTitle": "2020-06-11-曾俊杰",
+    "description": "曾俊杰：北京大学政治经济学考研经验",
+    "relativePath": "zh/文集/研究生升学案例/考研专辑/2020-06-11-曾俊杰.md",
+    "category": "考研",
+    "version": "0.1.0",
+    "fullScreen": false
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "戴盛赟：北京大学法学院考研经验",
+    "permalink": "/docs/文集/2020-06-10-戴盛赟"
+  },
+  "next": {
+    "title": "芦旭：中国人民大学会计（硕博连读）考研经验",
+    "permalink": "/docs/文集/2020-06-13-芦旭"
+  }
+}

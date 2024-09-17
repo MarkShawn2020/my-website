@@ -1,0 +1,28 @@
+{
+  "unversionedId": "coding/Languages/JS/es6/number",
+  "id": "coding/Languages/JS/es6/number",
+  "title": "数值的扩展",
+  "description": "二进制和八进制表示法",
+  "source": "@site/my-documents/docs/coding/Languages/JS/es6/number.md",
+  "sourceDirName": "coding/Languages/JS/es6",
+  "slug": "/coding/Languages/JS/es6/number",
+  "permalink": "/docs/coding/Languages/JS/es6/number",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/es6/number.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "position": 7
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Module 的语法",
+    "permalink": "/docs/coding/Languages/JS/es6/module"
+  },
+  "next": {
+    "title": "对象的新增方法",
+    "permalink": "/docs/coding/Languages/JS/es6/object-methods"
+  }
+}

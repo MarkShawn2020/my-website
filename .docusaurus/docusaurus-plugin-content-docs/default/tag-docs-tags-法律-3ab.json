@@ -1,0 +1,20 @@
+{
+  "label": "法律",
+  "permalink": "/docs/tags/法律",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "education/考研/2020-06-28-盛锦叶",
+      "title": "盛锦叶：上海财经大学法学院考研经验",
+      "description": "盛锦叶：上海财经大学法学院考研经验",
+      "permalink": "/docs/文集/2020-06-28-盛锦叶"
+    },
+    {
+      "id": "education/考研/2020-06-27-谷云",
+      "title": "谷云：复旦大学法学院考研经验",
+      "description": "谷云：复旦大学法学院考研经验",
+      "permalink": "/docs/文集/2020-06-27-谷云"
+    }
+  ]
+}

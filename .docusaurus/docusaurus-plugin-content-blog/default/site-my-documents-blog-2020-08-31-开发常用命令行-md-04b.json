@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/文集/开发常用命令行",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2020/08-31-开发常用命令行.md",
+  "source": "@site/my-documents/blog/2020/08-31-开发常用命令行.md",
+  "title": "开发常用命令行",
+  "description": "开发速查手册",
+  "date": "2020-08-31T00:00:00.000Z",
+  "formattedDate": "2020/08/31",
+  "tags": [
+    {
+      "label": "计算机与软件",
+      "permalink": "/blog/tags/计算机与软件"
+    }
+  ],
+  "readingTime": 2.61,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "开发常用命令行",
+    "menuTitle": "开发常用命令行",
+    "description": "开发速查手册",
+    "relativePath": "zh/文集/编程世界/开发速查手册/开发常用命令行.md",
+    "slug": "/文集/开发常用命令行",
+    "tags": [
+      "计算机与软件"
+    ],
+    "category": "计算机与软件",
+    "cover": "",
+    "position": 30,
+    "version": "0.1.0",
+    "fullScreen": false
+  },
+  "prevItem": {
+    "title": "JS、ES、TS、node、Vue、React 修炼",
+    "permalink": "/blog/2020/09/10/JS、ES、TS、node、Vue、React修炼"
+  },
+  "nextItem": {
+    "title": "谨以此文，纪念我在大学的这四年",
+    "permalink": "/blog/my_university"
+  }
+}

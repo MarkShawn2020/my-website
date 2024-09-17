@@ -1,0 +1,28 @@
+{
+  "unversionedId": "coding/Languages/JS/es6/simd",
+  "id": "coding/Languages/JS/es6/simd",
+  "title": "SIMD",
+  "description": "概述",
+  "source": "@site/my-documents/docs/coding/Languages/JS/es6/simd.md",
+  "sourceDirName": "coding/Languages/JS/es6",
+  "slug": "/coding/Languages/JS/es6/simd",
+  "permalink": "/docs/coding/Languages/JS/es6/simd",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/es6/simd.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "position": 9.3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Set 和 Map 数据结构",
+    "permalink": "/docs/coding/Languages/JS/es6/set-map"
+  },
+  "next": {
+    "title": "读懂 ECMAScript 规格",
+    "permalink": "/docs/coding/Languages/JS/es6/spec"
+  }
+}

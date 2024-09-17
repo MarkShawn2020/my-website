@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/JetBrains/Clion/clion-howto",
+  "id": "coding/Software/JetBrains/Clion/clion-howto",
+  "title": "clion howto",
+  "description": "FIXED: file does not belong to any project target, code insight features might not work properly",
+  "source": "@site/my-documents/docs/coding/Software/JetBrains/Clion/clion-howto.md",
+  "sourceDirName": "coding/Software/JetBrains/Clion",
+  "slug": "/coding/Software/JetBrains/Clion/clion-howto",
+  "permalink": "/docs/coding/Software/JetBrains/Clion/clion-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/JetBrains/Clion/clion-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "android-studio howto",
+    "permalink": "/docs/coding/Software/JetBrains/AndroidStudio/android-studio"
+  },
+  "next": {
+    "title": "Idea howto",
+    "permalink": "/docs/coding/Software/JetBrains/Idea/idea-howto"
+  }
+}

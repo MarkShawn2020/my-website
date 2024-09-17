@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Languages/JS/Electron/electron-bugfix",
+  "id": "coding/Languages/JS/Electron/electron-bugfix",
+  "title": "electron-bugfix",
+  "description": "1. when mock/test, 'Electron failed to install correctly, please delete nodemodules/electron and try installing again'",
+  "source": "@site/my-documents/docs/coding/Languages/JS/Electron/electron-bugfix.md",
+  "sourceDirName": "coding/Languages/JS/Electron",
+  "slug": "/coding/Languages/JS/Electron/electron-bugfix",
+  "permalink": "/docs/coding/Languages/JS/Electron/electron-bugfix",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/Electron/electron-bugfix.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "jest howto",
+    "permalink": "/docs/coding/Languages/JS/CodeQuality_eslint_prettier_jest/jest-howto"
+  },
+  "next": {
+    "title": "electron howto",
+    "permalink": "/docs/coding/Languages/JS/Electron/electron-howto"
+  }
+}

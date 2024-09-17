@@ -1,0 +1,28 @@
+{
+  "unversionedId": "coding/Languages/JS/es6/array",
+  "id": "coding/Languages/JS/es6/array",
+  "title": "数组的扩展",
+  "description": "扩展运算符",
+  "source": "@site/my-documents/docs/coding/Languages/JS/es6/array.md",
+  "sourceDirName": "coding/Languages/JS/es6",
+  "slug": "/coding/Languages/JS/es6/array",
+  "permalink": "/docs/coding/Languages/JS/es6/array",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/es6/array.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "position": 9
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "鸣谢",
+    "permalink": "/docs/coding/Languages/JS/es6/acknowledgment"
+  },
+  "next": {
+    "title": "ArrayBuffer",
+    "permalink": "/docs/coding/Languages/JS/es6/arraybuffer"
+  }
+}

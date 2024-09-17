@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/Google/GoogleSearch/google-search-howto",
+  "id": "coding/Software/Google/GoogleSearch/google-search-howto",
+  "title": "google-search-howto",
+  "description": "google advanced search",
+  "source": "@site/my-documents/docs/coding/Software/Google/GoogleSearch/google-search-howto.md",
+  "sourceDirName": "coding/Software/Google/GoogleSearch",
+  "slug": "/coding/Software/Google/GoogleSearch/google-search-howto",
+  "permalink": "/docs/coding/Software/Google/GoogleSearch/google-search-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/Google/GoogleSearch/google-search-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "chrome how-to",
+    "permalink": "/docs/coding/Software/Google/ChromeUsage/chrome-howto"
+  },
+  "next": {
+    "title": "android-studio howto",
+    "permalink": "/docs/coding/Software/JetBrains/AndroidStudio/android-studio"
+  }
+}

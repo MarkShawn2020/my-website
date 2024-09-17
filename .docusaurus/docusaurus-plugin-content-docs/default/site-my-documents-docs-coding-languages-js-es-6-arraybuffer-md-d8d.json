@@ -1,0 +1,28 @@
+{
+  "unversionedId": "coding/Languages/JS/es6/arraybuffer",
+  "id": "coding/Languages/JS/es6/arraybuffer",
+  "title": "ArrayBuffer",
+  "description": "ArrayBuffer对象、TypedArray视图和DataView视图是 JavaScript 操作二进制数据的一个接口。这些对象早就存在，属于独立的规格（2011 年 2 月发布），ES6 将它们纳入了 ECMAScript 规格，并且增加了新的方法。它们都是以数组的语法处理二进制数据，所以统称为二进制数组。",
+  "source": "@site/my-documents/docs/coding/Languages/JS/es6/arraybuffer.md",
+  "sourceDirName": "coding/Languages/JS/es6",
+  "slug": "/coding/Languages/JS/es6/arraybuffer",
+  "permalink": "/docs/coding/Languages/JS/es6/arraybuffer",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Languages/JS/es6/arraybuffer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "position": 28
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "数组的扩展",
+    "permalink": "/docs/coding/Languages/JS/es6/array"
+  },
+  "next": {
+    "title": "异步遍历器",
+    "permalink": "/docs/coding/Languages/JS/es6/async-iterator"
+  }
+}

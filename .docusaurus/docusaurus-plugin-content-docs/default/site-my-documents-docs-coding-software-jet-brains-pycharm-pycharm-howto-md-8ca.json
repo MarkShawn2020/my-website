@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/Software/JetBrains/Pycharm/pycharm-howto",
+  "id": "coding/Software/JetBrains/Pycharm/pycharm-howto",
+  "title": "pycharm-howto",
+  "description": "1. 在 pycharm 中的 opencv 智能提示",
+  "source": "@site/my-documents/docs/coding/Software/JetBrains/Pycharm/pycharm-howto.md",
+  "sourceDirName": "coding/Software/JetBrains/Pycharm",
+  "slug": "/coding/Software/JetBrains/Pycharm/pycharm-howto",
+  "permalink": "/docs/coding/Software/JetBrains/Pycharm/pycharm-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/Software/JetBrains/Pycharm/pycharm-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "pycharm bugfix",
+    "permalink": "/docs/coding/Software/JetBrains/Pycharm/pycharm-bugfix"
+  },
+  "next": {
+    "title": "webstorm_bugfix",
+    "permalink": "/docs/coding/Software/JetBrains/WebStorm/webstorm-bugfix"
+  }
+}

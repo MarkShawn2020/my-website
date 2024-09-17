@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/Windows/windows-howto",
+  "id": "coding/OS/Windows/windows-howto",
+  "title": "windows-howto",
+  "description": "download windows 10 iso",
+  "source": "@site/my-documents/docs/coding/OS/Windows/windows-howto.md",
+  "sourceDirName": "coding/OS/Windows",
+  "slug": "/coding/OS/Windows/windows-howto",
+  "permalink": "/docs/coding/OS/Windows/windows-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/Windows/windows-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "zsh-howto",
+    "permalink": "/docs/coding/OS/Mac/zsh-howto"
+  },
+  "next": {
+    "title": "cross-platform howto",
+    "permalink": "/docs/coding/OS/cross-platform-howto"
+  }
+}

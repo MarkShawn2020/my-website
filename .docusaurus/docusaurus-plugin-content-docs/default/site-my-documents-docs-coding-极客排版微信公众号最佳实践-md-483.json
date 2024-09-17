@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/极客排版微信公众号最佳实践",
+  "id": "coding/极客排版微信公众号最佳实践",
+  "title": "极客排版微信公众号最佳实践",
+  "description": "这里正好有一份2017年以前的帖子，那时候都没有很好的 markdown 排版编辑器，体验最好的就是该文里的 markdown here，但并不支持复制到微信公众号文章。",
+  "source": "@site/my-documents/docs/coding/极客排版微信公众号最佳实践.md",
+  "sourceDirName": "coding",
+  "slug": "/coding/极客排版微信公众号最佳实践",
+  "permalink": "/docs/coding/极客排版微信公众号最佳实践",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/极客排版微信公众号最佳实践.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "微信迁移",
+    "permalink": "/docs/coding/微信迁移"
+  },
+  "next": {
+    "title": "毁灭人生的打包记",
+    "permalink": "/docs/coding/毁灭人生的打包记"
+  }
+}

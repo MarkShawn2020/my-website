@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/Mac/mac-automation",
+  "id": "coding/OS/Mac/mac-automation",
+  "title": "mac 自动化",
+  "description": "applescript",
+  "source": "@site/my-documents/docs/coding/OS/Mac/mac-automation.md",
+  "sourceDirName": "coding/OS/Mac",
+  "slug": "/coding/OS/Mac/mac-automation",
+  "permalink": "/docs/coding/OS/Mac/mac-automation",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/Mac/mac-automation.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "mac apps",
+    "permalink": "/docs/coding/OS/Mac/mac-apps"
+  },
+  "next": {
+    "title": "mac bugfix",
+    "permalink": "/docs/coding/OS/Mac/mac-bugfix"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "permalink": "/blog/2020/09/12/经验与发现",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2020/09-12-经验与发现.md",
+  "source": "@site/my-documents/blog/2020/09-12-经验与发现.md",
+  "title": "经验与发现",
+  "description": "关于 popup 浮动弹出组件的实现",
+  "date": "2020-09-12T00:00:00.000Z",
+  "formattedDate": "2020/09/12",
+  "tags": [],
+  "readingTime": 9.925,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "经验与发现",
+    "menuTitle": "经验与发现",
+    "position": 4
+  },
+  "prevItem": {
+    "title": "留言墙",
+    "permalink": "/blog/guestbook"
+  },
+  "nextItem": {
+    "title": "JS、ES、TS、node、Vue、React 修炼",
+    "permalink": "/blog/2020/09/10/JS、ES、TS、node、Vue、React修炼"
+  }
+}

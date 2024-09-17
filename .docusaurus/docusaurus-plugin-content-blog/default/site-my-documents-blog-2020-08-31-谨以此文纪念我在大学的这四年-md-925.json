@@ -1,0 +1,29 @@
+{
+  "permalink": "/blog/my_university",
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/blog/2020/08-31-谨以此文纪念我在大学的这四年.md",
+  "source": "@site/my-documents/blog/2020/08-31-谨以此文纪念我在大学的这四年.md",
+  "title": "谨以此文，纪念我在大学的这四年",
+  "description": "来的时候觉得她对不起自己",
+  "date": "2020-08-31T00:00:00.000Z",
+  "formattedDate": "2020/08/31",
+  "tags": [],
+  "readingTime": 46.49,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "谨以此文，纪念我在大学的这四年",
+    "slug": "my_university",
+    "menuTitle": "我的大学",
+    "position": 3,
+    "category": "关于",
+    "fullScreen": false
+  },
+  "prevItem": {
+    "title": "开发常用命令行",
+    "permalink": "/blog/文集/开发常用命令行"
+  },
+  "nextItem": {
+    "title": "VuePress你好，VuePres再见",
+    "permalink": "/blog/VuePress-Journal"
+  }
+}

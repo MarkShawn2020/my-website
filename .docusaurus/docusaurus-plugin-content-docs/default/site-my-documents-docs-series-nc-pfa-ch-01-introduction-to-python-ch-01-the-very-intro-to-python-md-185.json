@@ -1,0 +1,26 @@
+{
+  "unversionedId": "series/NC-PFA/ch01_introduction-to-python/CH01_The-Very-Intro-to-Python",
+  "id": "series/NC-PFA/ch01_introduction-to-python/CH01_The-Very-Intro-to-Python",
+  "title": "CH01_The-Very-Intro-to-Python",
+  "description": "CH01 - The Very Intro to Python",
+  "source": "@site/my-documents/docs/series/NC-PFA/ch01_introduction-to-python/CH01_The-Very-Intro-to-Python.md",
+  "sourceDirName": "series/NC-PFA/ch01_introduction-to-python",
+  "slug": "/series/NC-PFA/ch01_introduction-to-python/CH01_The-Very-Intro-to-Python",
+  "permalink": "/docs/series/NC-PFA/ch01_introduction-to-python/CH01_The-Very-Intro-to-Python",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/series/NC-PFA/ch01_introduction-to-python/CH01_The-Very-Intro-to-Python.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "A02 编程作业自动测试插件说明",
+    "permalink": "/docs/series/NC-PFA/Appendix/A02-编程作业自动测试插件说明"
+  },
+  "next": {
+    "title": "H02 - The Guidance to Install and Configure IDEs",
+    "permalink": "/docs/series/NC-PFA/ch02_introduction-to-IDE/"
+  }
+}

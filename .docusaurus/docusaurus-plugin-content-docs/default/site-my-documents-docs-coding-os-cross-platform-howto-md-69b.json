@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coding/OS/cross-platform-howto",
+  "id": "coding/OS/cross-platform-howto",
+  "title": "cross-platform howto",
+  "description": "1. mouse/keyboard sharing solution: synergy",
+  "source": "@site/my-documents/docs/coding/OS/cross-platform-howto.md",
+  "sourceDirName": "coding/OS",
+  "slug": "/coding/OS/cross-platform-howto",
+  "permalink": "/docs/coding/OS/cross-platform-howto",
+  "draft": false,
+  "editUrl": "https://github.com/markshawn2020/docusaurus/edit/master/my-documents/docs/coding/OS/cross-platform-howto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "windows-howto",
+    "permalink": "/docs/coding/OS/Windows/windows-howto"
+  },
+  "next": {
+    "title": "mac + ubuntu 双系统",
+    "permalink": "/docs/coding/OS/dual-boot-systems"
+  }
+}
