@@ -23,7 +23,15 @@ export const blog: Options = {
     blogSidebarTitle: 'All Posts',
     blogSidebarCount: 'ALL',
     postsPerPage: 5,
-    exclude: [],
+    exclude: [
+      '**/fbInternal/**',
+
+
+     '**/_*.{js,jsx,ts,tsx,md,mdx}',
+     '**/_*/**',
+     '**/*.test.{js,jsx,ts,tsx}',
+     '**/__tests__/**',
+   ],
 
     blogListComponent: '@theme/BlogListPage',
     blogPostComponent: '@theme/BlogPostPage',
