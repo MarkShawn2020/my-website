@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[13533],{92787:e=>{e.exports=JSON.parse('{"label":"Vuepress","permalink":"/blog/tags/vuepress","allTagsPath":"/blog/tags","count":1}')}}]);
