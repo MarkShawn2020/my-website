@@ -1,8 +1,4 @@
 [submodule "my-documents"]
-	path = my-public-documents
+	path = my-documents
 	url = git@github.com:markshawn2020/my-documents.git
-	branch = main
-[submodule "my-private-documents"]
-	path = my-private-documents
-	url = git@github.com:markshawn2020/my-private-documents.git
 	branch = main
