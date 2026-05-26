@@ -10,7 +10,7 @@
     "dev": "yarn start",
     "restart": "rm -rf .docusaurus && rm -rf node_modules/.cache && docusaurus start",
     "update-version": "yarn run docusaurus docs:version $(cat VERSION.txt)",
-    "build": "rm -rf my-documents && git clone --depth 1 https://github.com/markshawn2020/my-documents.git my-documents && ln -sfn 3-Resources/docs my-documents/docs && ln -sfn blog-latest my-documents/blog && find -L my-documents/blog -name '*\"*' -delete && docusaurus build",
+    "build": "rm -rf my-documents && git clone --depth 1 https://github.com/markshawn2020/my-documents.git my-documents && ln -sfn 3-Resources/docs my-documents/docs && ln -sfn blog-latest my-documents/blog && find -L my-documents/docs my-documents/blog -name '*\"*' -delete && find -L my-documents/docs my-documents/blog -name \"*'*\" -delete && docusaurus build",
     "build:config": "webpack --config config/webpack.config.ts",
     "rebuild": "rm -rf node_modules/.cache && docusaurus build",
     "swizzle": "docusaurus swizzle",
