@@ -33,7 +33,15 @@ export interface ITaskFromMD {
 
 
 export const genTasksMd2Json = async (): Promise<ITask[]> => {
-  const content = await fs.readFile(todoFilePath, 'utf-8')
+  let content: string
+  try {
+    content = await fs.readFile(todoFilePath, 'utf-8')
+  } catch (error) {
+    if ((error as { code?: string }).code === 'ENOENT') {
+      return []
+    }
+    throw error
+  }
   let colNames: string[] = []
   const tasks: ITask[] = []
   let matchedLines: number = 0
