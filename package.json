@@ -10,7 +10,7 @@
     "dev": "yarn start",
     "restart": "rm -rf .docusaurus && rm -rf node_modules/.cache && docusaurus start",
     "update-version": "yarn run docusaurus docs:version $(cat VERSION.txt)",
-    "build": "docusaurus build",
+    "build": "git submodule update --init --recursive && docusaurus build",
     "build:config": "webpack --config config/webpack.config.ts",
     "rebuild": "rm -rf node_modules/.cache && docusaurus build",
     "swizzle": "docusaurus swizzle",
